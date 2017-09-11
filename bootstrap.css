@@ -6722,3 +6722,13 @@ height: 20px;
 strong{
     font-size: 20px;
 }  
+
+    
+.btn-lg, .btn-group-lg > .btn {
+       padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.33;
+    border-radius: 6px;
+    margin-left: 96%;
+    margin-bottom: 1%;
+}
