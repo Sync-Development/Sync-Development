@@ -1,10 +1,9 @@
 
 .logo{
-    
-    width: 20%;
-    height:20%;
-    margin-left: 1%;
-    margin-bottom: -2%;
+        width: 29%;
+    height: 19%;
+    margin-left: -6%;
+    margin-bottom: -8%;
 }
 
 
@@ -85,23 +84,29 @@ carousel.less:193
     border-radius: 10px;
 }  
     
-    #pricing {
-        margin: 0 auto;
-     
-
+#pricing {
+     margin: 0 auto;
  }    
 
 
-h1 {
+#kolom-1 {
+    color: deepskyblue;
+    background-color: deepskyblue;
     
 }
+
+#kolom-2 {
+    color: #6ba6da;
+    background-color: #6ba6da;
+}
+
+#kolom-3 {
+    color:  #993399;;
+    background-color: #993399;
+}
+
     
+
+
     
-    
-    
-    
-    
-    
-    
-    
-    
+
