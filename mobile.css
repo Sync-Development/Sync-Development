@@ -14,3 +14,19 @@
 .footer{
     display:none;
 }
+
+.footer-top{
+    display:none;
+}
+
+.footer-bottom{
+    background: #E3E3E3;
+    border-top: 1px solid #DDDDDD;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 0%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
