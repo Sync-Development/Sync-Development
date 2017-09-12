@@ -84,57 +84,33 @@ function filterFunction() {
     </div>
  <div id="wrapper2"> 
      
-<form name="contactform" method="post" action="send_form_email.php">
-<table width="400px">
-<tr>
- <td valign="top">
-  <label for="first_name">Voornaam *</label>
- </td>
- <td valign="top">
-  <input  type="text" name="first_name" maxlength="50" size="30">
- </td>
-</tr>
-<tr>
- <td valign="top">
-  <label for="last_name">Achternaam *</label>
- </td>
- <td valign="top">
-  <input  type="text" name="last_name" maxlength="50" size="30">
- </td>
-</tr>
-<tr>
- <td valign="top">
-  <label for="email">Email Addres*</label>
- </td>
- <td valign="top">
-  <input  type="text" name="email" maxlength="80" size="30">
- </td>
-</tr>
-<tr>
- <td valign="top">
-  <label for="telephone">Telefoonnummer</label>
- </td>
- <td valign="top">
-  <input  type="text" name="telephone" maxlength="30" size="30">
- </td>
-</tr>
-<tr>
- <td valign="top">
-  <label for="comments">Bericht *</label>
- </td>
- <td valign="top">
-  <textarea  name="comments" maxlength="1000" cols="60" rows="10"></textarea>
- </td>
-</tr>
-<tr>
- <td colspan="2" style="text-align:center">
-  <input type="submit" value="Versturen">  
- </td>
-</tr>
-</table>
-</form>
-
-     </div>   
+<div class="container-fluid bg-grey">
+  <h2 class="text-center">CONTACT</h2>
+  <div class="row">
+    <div class="col-sm-5">
+      <p>Contact us and we'll get back to you within 24 hours.</p>
+      <p><span class="glyphicon glyphicon-map-marker"></span> Alphen aan den rijn, 2407AE</p>
+      <p><span class="glyphicon glyphicon-phone"></span> +0031 6 11129593</p>
+      <p><span class="glyphicon glyphicon-envelope"></span>Info@sync-development.nl</p> 
+    </div>
+    <div class="col-sm-7">
+      <div class="row">
+        <div class="col-sm-6 form-group">
+          <input class="form-control" id="name" name="name" placeholder="Name" type="text" required>
+        </div>
+        <div class="col-sm-6 form-group">
+          <input class="form-control" id="email" name="email" placeholder="Email" type="email" required>
+        </div>
+      </div>
+      <textarea class="form-control" id="comments" name="comments" placeholder="Comment" rows="5"></textarea><br>
+      <div class="row">
+        <div class="col-sm-12 form-group">
+          <button class="btn btn-default pull-right" type="submit">Send</button>
+        </div>
+      </div> 
+    </div>
+  </div>
+</div>
 
   
  <br>   
