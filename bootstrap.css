@@ -6713,7 +6713,7 @@ height: 20px;
 /*voor onze pakketen op pagina diensten*/
 #wrapper2{
     
-    width: 81%;
+    width: 80%;
     margin: 0 auto;
     font-family:'Josefin sans', sans-serif;
     
@@ -6741,4 +6741,10 @@ strong{
 
 #myBtn:hover {
   background-color: deepskyblue;
+}
+
+.bg-primary{
+    background-color: #4431a4;
+    height: 50px;
+    text-align: center;
 }
