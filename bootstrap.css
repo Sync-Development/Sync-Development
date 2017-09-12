@@ -5956,9 +5956,7 @@ button.close {
 .pull-right {
   float: right !important;
 }
-.pull-left {
-  float: left !important;
-}
+
 .hide {
   display: none !important;
 }
@@ -6676,6 +6674,7 @@ carousel.less:193
     margin-bottom: -3%;
 }
 
+
 .footer-top {
 	background: #6ba6da;
 	border-top: 1px solid #DDDDDD;
@@ -6746,5 +6745,10 @@ strong{
 .bg-primary{
     background-color: #4431a4;
     height: 50px;
+    text-align: center;
+    
+}
+
+.copyright{
     text-align: center;
 }
