@@ -83,67 +83,40 @@ function filterFunction() {
 </script>
     </div>
         
- <div id="wrapper2">
-         
-<p class="bg-primary"><strong>Contact</strong></p>
+  <div id="wrapper">    
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2449.297910034982!2d4.643224315610478!3d52.12890217289174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5dae9abea84bb%3A0x1d4e249081bd79a4!2sAntonie+van+Leeuwenhoekweg+14%2C+2408+AM+Alphen+aan+den+Rijn!5e0!3m2!1snl!2snl!4v1505201878783" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </div>   
+    
+ <div id="wrapper2"> 
      
-<h3>Voor vragen kunt u ons gerust een bericht sturen.</h3>
-<br>     
-<p> Wij zijn gevestigt in het pand van autodealer Ducar in Alphen aan den Rijn. Op de Anthonie van Leeuwenhoek 14</p>
-<p> Email: info@sync-development.nl</p>
-<p>Tel: 0653538815</p>
-<br> <br> <br>    
-<form name="contactform" method="post" action="send_form_email.php">
-<table width="400px">
-<tr>
- <td valign="top">
-  <label for="first_name">Voornaam *</label>
- </td>
- <td valign="top">
-  <input  type="text" name="first_name" maxlength="50" size="30">
- </td>
-</tr>
-<tr>
- <td valign="top">
-  <label for="last_name">Achternaam *</label>
- </td>
- <td valign="top">
-  <input  type="text" name="last_name" maxlength="50" size="30">
- </td>
-</tr>
-<tr>
- <td valign="top">
-  <label for="email">Email Addres*</label>
- </td>
- <td valign="top">
-  <input  type="text" name="email" maxlength="80" size="30">
- </td>
-</tr>
-<tr>
- <td valign="top">
-  <label for="telephone">Telefoonnummer</label>
- </td>
- <td valign="top">
-  <input  type="text" name="telephone" maxlength="30" size="30">
- </td>
-</tr>
-<tr>
- <td valign="top">
-  <label for="comments">Bericht *</label>
- </td>
- <td valign="top">
-  <textarea  name="comments" maxlength="1000" cols="60" rows="10"></textarea>
- </td>
-</tr>
-<tr>
- <td colspan="2" style="text-align:center">
-  <input type="submit" value="Versturen">  
- </td>
-</tr>
-</table>
-</form>
-
-     </div>   
+<div class="container-fluid bg-grey">
+  <h2 class="text-center">CONTACT</h2>
+  <div class="row">
+    <div class="col-sm-5">
+      <p>Contact us and we'll get back to you within 24 hours.</p>
+      <p><span class="glyphicon glyphicon-map-marker"></span> Alphen aan den rijn, 2407AE</p>
+      <p><span class="glyphicon glyphicon-phone"></span> +0031 6 11129593</p>
+      <p><span class="glyphicon glyphicon-envelope"></span> Info@sync-development.nl</p> 
+    </div>
+    <div class="col-sm-7">
+      <div class="row">
+        <div class="col-sm-6 form-group">
+          <input class="form-control" id="name" name="name" placeholder="Name" type="text" required>
+        </div>
+        <div class="col-sm-6 form-group">
+          <input class="form-control" id="email" name="email" placeholder="Email" type="email" required>
+        </div>
+      </div>
+      <textarea class="form-control" id="comments" name="comments" placeholder="Comment" rows="5"></textarea><br>
+      <div class="row">
+        <div class="col-sm-12 form-group">
+          <button class="btn btn-default pull-right" type="submit">Send</button>
+        </div>
+      </div> 
+    </div>
+  </div>
+</div>
+    </div>
 
   
  <br>   
