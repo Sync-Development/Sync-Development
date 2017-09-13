@@ -6750,6 +6750,14 @@ strong{
     margin-top:-2%;
 }
 
+.bg-info{
+    background-color: #6ba6da;
+    height: 50px;
+    text-align: center;
+    margin-top:-2%;
+    color: white;
+}
+
 .copyright{
     text-align: center;
 }
