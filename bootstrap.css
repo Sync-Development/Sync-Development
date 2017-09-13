@@ -6720,6 +6720,7 @@ height: 20px;
 
 strong{
     font-size: 20px;
+    text-align: center;
 }  
 
     
@@ -6746,7 +6747,7 @@ strong{
     background-color: #4431a4;
     height: 50px;
     text-align: center;
-    
+    margin-top:-2%;
 }
 
 .copyright{
