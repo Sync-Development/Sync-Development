@@ -6840,6 +6840,9 @@ footer { background-color:#4431a4; max-height:320px; font-family: 'Open Sans', s
     padding-top: 7px;
     border-radius: 50%;
 }
+.footer-social1{
+    display:none;
+}
  .footer-social li{
      float:left;
  }
