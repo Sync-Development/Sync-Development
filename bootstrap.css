@@ -3775,7 +3775,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   position: relative;
   min-height: 50px;
   margin-bottom: 20px;
-  border: 1px solid transparent;
+  border: 0px solid transparent;
 }
 @media (min-width: 768px) {
   .navbar {
@@ -6820,7 +6820,7 @@ footer { background-color:#4431a4; max-height:320px; font-family: 'Open Sans', s
 .footer-ul i { margin-right:10px;}
 .footer-ul li a:hover {transition: color 0.2s linear 0s, background 0.2s linear 0s; color:#ff670f; }
 
- .copyright { min-height:40px; background-color:#68a6da;}
+ .copyright { min-height:40px; background-color:#68a6da; position:absolute; width:100%}
  .copyright p { text-align:left; color:#FFF; padding:10px 0; margin-bottom:0;}
  .heading7 { font-size:21px; font-weight:700; color:#d9d6d6; margin-bottom:22px; display:none;}
  .post p { font-size:12px; color:#FFF; line-height:20px;}
