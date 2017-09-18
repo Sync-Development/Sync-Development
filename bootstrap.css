@@ -6824,8 +6824,8 @@ footer { background-color:#4431a4; max-height:320px; font-family: 'Open Sans', s
  .copyright p { text-align:left; color:#FFF; padding:10px 0; margin-bottom:0;}
  .heading7 { font-size:21px; font-weight:700; color:#d9d6d6; margin-bottom:22px; display:none;}
  .post p { font-size:12px; color:#FFF; line-height:20px;}
- .post p span { display:block; color:#8f8f8f;}
- .bottom_ul { list-style-type:none; float:right; margin-bottom:0;}
+ .post p span { display:block; color:#8f8f8f; display:none;}
+ .bottom_ul { list-style-type:none; float:right; margin-bottom:0;display:none;}
  .bottom_ul li { float:left; line-height:40px;}
  .bottom_ul li:after { content:"/"; color:#FFF; margin-right:8px; margin-left:8px;}
  .bottom_ul li a { color:#FFF;  font-size:12px;}
