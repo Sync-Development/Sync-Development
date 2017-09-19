@@ -96,11 +96,7 @@ svg:not(:root) {
 figure {
   margin: 1em 40px;
 }
-hr {
-  height: 0;
-  -webkit-box-sizing: content-box;
-     -moz-box-sizing: content-box;
-          box-sizing: content-box;
+
 }
 pre {
   overflow: auto;
@@ -6623,11 +6619,10 @@ carousel.less:193
 
 
 hr {
-  border: 0;
+  
   width: 80%;
-  color: #6ba6da;
-background-color: #6ba6da;
-height: 20px;
+  background-color: darkgray;
+  height: 1px;
 }
 
 #wrapper{
@@ -6655,7 +6650,7 @@ height: 20px;
     
     width: 100%;
     margin: 0 auto;
-    background-color: #E6E6E6;
+    background-color: #white;
 }
 
 
@@ -6713,6 +6708,10 @@ strong{
     color: white;
 }
 
+.caption{
+    background-color: white;
+}
+
 .copyright{
     text-align: center;
 }
@@ -6736,80 +6735,7 @@ margin-bottom: -7px;
 
 
 
-		#main{
-			width: 500px;
-			margin-left: 33%;
-            margin-top: 4%;
-			border-radius: 10px;
-			border: 5px solid #6ba6da;
-			border-left: 5px solid #6ba6da;
-			box-shadow: 1px 2px 10px #555;
-
-		}
-		.info{
-			width: 100%;
-			background-color: #4431a4;
-			padding: 7px;
-			text-shadow: 1px 1px 1px #222;
-			color: #fff;
-			font-size: 20px;
-		}
-		.form-box{
-			padding: 20px;
-			background-color: #FFF;
-		}
-		label{
-			color: navy;
-			font-size: 18px;
-		}
-		.inp,.msg-box{
-			width: 100%;
-			padding: 10px;
-			margin-top: 4px;
-			margin-bottom: 5px;
-			border-radius: 5px;
-			border: 2px solid #6ba6da;
-			font-weight: bold;
-			color: #4431a4;
-			border-right: 15px solid #6ba6da;
-			border-left: 15px solid #6ba6da;
-			resize: none;
-		}
-		.msg-box{
-			height: 80px;
-		}
-		.inp:focus,.msg-box:focus{
-			outline: none;
-			border: 2px solid navy;
-			border-right: 15px solid navy;
-			border-left: 15px solid navy;
-		}
-		.sub-btn{
-			width: 100%;
-			padding: 10px;
-			border-radius: 5px;
-			margin-top: 5px;
-			border: none;
-			background: linear-gradient(#4431a4,#6ba6da);
-			cursor: pointer;
-			color: #fff;
-			font-size: 20px;
-			text-shadow: 1px 1px 1px #444;
-		}
-		.sub-btn:hover{
-			background: linear-gradient(#4431a4,#6ba6da);
-			opacity: 0.8;
-			transition: all ease-out 0.2s;
-		}
-		.sub-btn:focus{
-			outline: none;
-		}
-		@media(max-width: 720px){
-			#main{
-                margin-left: 5%;
-				width: 90%;
-			}
-		}
+	
 
 /*Footer*/
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,300);
