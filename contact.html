@@ -98,12 +98,14 @@ function filterFunction() {
   <h2 class="text-center">CONTACT</h2>
   <div class="row">
     <div class="col-sm-5">
-      <h3>Neem contact met ons op, wij reageren zo snel mogelijk!</h3>
+      <h2>Contact gegevens</h2>
       <p><span class="glyphicon glyphicon-map-marker" style="color: red;"></span> Antonie van leeuwenhoekweg 14, 2408AM, Alphen aan den rijn</p>
       <p><span class="glyphicon glyphicon-phone" style="color: #6da6ba;"></span> 0611129593</p>
       <p><span class="glyphicon glyphicon-envelope" style="color: #4431a7;"></span> info@sync-development.nl</p>
     </div>
-    <div class="col-sm-7 slideanim">
+    
+      <form action="mail_handler.php" method="post">
+      <div class="col-sm-7 slideanim">
       <div class="row">
         <div class="col-sm-6 form-group">
           <input class="form-control" id="name" name="name" placeholder="Naam" type="text" required>
@@ -111,7 +113,7 @@ function filterFunction() {
           <div class="col-sm-6 form-group">
           <input class="form-control" id="phone" name="phone" placeholder="Telefoonnummer" type="text" required>
         </div> 
-          <div class="col-sm-6 form-group">
+          <div class="col-sm-12 form-group">
           <input class="form-control" id="email" name="email" placeholder="Email" type="email" required>
         </div>
       </div>
@@ -124,7 +126,7 @@ function filterFunction() {
     </div>
   </div>
 </div>    
-     
+    </form>     
  
       
 
