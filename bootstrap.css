@@ -96,11 +96,7 @@ svg:not(:root) {
 figure {
   margin: 1em 40px;
 }
-hr {
-  height: 0;
-  -webkit-box-sizing: content-box;
-     -moz-box-sizing: content-box;
-          box-sizing: content-box;
+
 }
 pre {
   overflow: auto;
@@ -6623,11 +6619,10 @@ carousel.less:193
 
 
 hr {
-  border: 0;
+  
   width: 80%;
-  color: #6ba6da;
-background-color: #6ba6da;
-height: 20px;
+  background-color: darkgray;
+  height: 1px;
 }
 
 #wrapper{
@@ -6655,7 +6650,7 @@ height: 20px;
     
     width: 100%;
     margin: 0 auto;
-    background-color: #E6E6E6;
+    background-color: #white;
 }
 
 
