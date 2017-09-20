@@ -6551,9 +6551,9 @@ button.close {
 /* slider*/
 .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
     display: block;
-    width: 80%;
+    width: 100%;
     height: auto;
-    margin-left: 10%;
+    margin-left: 0%;
 }
     
 .carousel-control.right {
