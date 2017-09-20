@@ -19,7 +19,7 @@
 #return-to-top {
     position: fixed;
     bottom: 16%;
-    right: 11%;
+    right: 20px;
    
     width: 15%;
     height: 35px;
@@ -269,7 +269,6 @@ footer { background-color:#4431a4; max-height:320px; font-family: 'Open Sans', s
 
 .active2 {
   transition: 0.4s ease;
-  background: #e7e7e7;
   color: navy;
   font-size: 20px;
   text-decoration: none;
