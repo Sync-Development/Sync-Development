@@ -6646,11 +6646,10 @@ hr {
 
 .active2 {
   transition: 0.4s ease;
-  background: white;
   color: navy;
   font-size: 20px;
   text-decoration: none;
-  border-bottom: 4px Solid white;
+  border-bottom: 4px Solid  transparent;
   padding: 20px 0;
   margin: 0 20px;
 
@@ -6669,6 +6668,7 @@ border-bottom: 4px solid purple;
     width: 80%;
     margin: 0 auto;
     font-family:'Josefin sans', sans-serif; 
+    text-align: center;
 }
 #wrapper3{
     
