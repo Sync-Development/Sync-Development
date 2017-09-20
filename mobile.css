@@ -11,6 +11,11 @@
     border-color: #e7e7e7;
 }
 
+.scrollup{
+    width: 15%;
+    margin-right: -7%;
+    margin-bottom: -35px;
+}
 
 #myBtn {
       display: none;
@@ -20,7 +25,7 @@
     z-index: 99;
     border: none;
     outline: none;
-    background-color:  #993399;
+    background-color:  transparent;
     color: white;
     cursor: pointer;
     padding: 15px;
@@ -187,7 +192,7 @@ footer { background-color:#4431a4; max-height:320px; font-family: 'Open Sans', s
     margin-bottom: 0px;}
 .copyright3 { max-height:80px; background-color:#68a6da;     position: absolute;
     width: 100%;
-    bottom: 66px; }
+    bottom: 13px; }
  .copyright p { text-align:left; color:#FFF; padding:7px 0; margin-bottom:0;}
  .heading7 { font-size:21px; font-weight:700; color:#d9d6d6; margin-bottom:22px; display:none;}
  .post p { font-size:12px; color:#FFF; line-height:20px;}

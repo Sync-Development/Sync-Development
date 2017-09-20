@@ -6684,7 +6684,45 @@ border-bottom: 4px solid purple;
 strong{
     font-size: 20px;
     text-align: center;
-}  
+} 
+
+.scrollup{
+    width: 25%;
+    float:right;
+}
+
+#return-to-top {
+    position: fixed;
+    bottom: 90px;
+    right: 20px;
+   
+    width: 15%;
+    height: 35px;
+    display: block;
+    text-decoration: none;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    border-radius: 35px;
+    display: none;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+#return-to-top i {
+    color: #fff;
+    margin: 0;
+    position: relative;
+    left: 16px;
+    top: 13px;
+    font-size: 19px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
 
     
 #myBtn {
@@ -6695,7 +6733,7 @@ strong{
   z-index: 99;
   border: none;
   outline: none;
-  background-color: #993399;
+  background-color: transparent;
   color: white;
   cursor: pointer;
   padding: 15px;
@@ -6703,8 +6741,7 @@ strong{
 }
 
 #myBtn:hover {
- color: blue;
-  padding: 6px 0;
+
 }
 
 .bg-primary-1{
