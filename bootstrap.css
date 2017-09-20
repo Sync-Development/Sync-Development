@@ -6802,3 +6802,8 @@ footer { background-color:#4431a4; max-height:320px; font-family: 'Open Sans', s
  .google{
      background-color:#f63e28;
  }
+
+.flag{
+        margin-left: -36%;
+    margin-right: 29%;
+}
