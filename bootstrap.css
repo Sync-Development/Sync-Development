@@ -5,6 +5,8 @@
  */
 
 /*! normalize.css v3.0.1 | MIT License | git.io/normalize */
+
+@import url(https://fonts.googleapis.com/css?family=Raleway);
 * { 
 outline:none;
 }
@@ -2780,7 +2782,7 @@ fieldset[disabled] .btn {
 .btn-default:active,
 .btn-default.active,
 .open > .dropdown-toggle.btn-default {
-  color: #333;
+  color: blue;
   background-color: #e6e6e6;
   border-color: #adadad;
 }
@@ -3639,7 +3641,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
-  color: #555;
+  color: blue;
   cursor: default;
   background-color: #fff;
   border: 1px solid #ddd;
@@ -4115,13 +4117,13 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #333;
-  background-color: transparent;
+  color: purple;
+ 
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  color: #555;
+  color: blue;
   background-color: #e7e7e7;
 }
 .navbar-default .navbar-nav > .disabled > a,
@@ -4218,7 +4220,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 .navbar-inverse .navbar-nav > .active > a:hover,
 .navbar-inverse .navbar-nav > .active > a:focus {
   color: #fff;
-  background-color: #080808;
+  background-color: blue;
 }
 .navbar-inverse .navbar-nav > .disabled > a,
 .navbar-inverse .navbar-nav > .disabled > a:hover,
@@ -6517,7 +6519,7 @@ button.close {
 }
 .metro .tab-control .tabs > li.active:hover a {
   background-color: #ffffff;
-  color: #1d1d1d;
+  color: blue;
 }
 .metro .tab-control .tabs > li:hover a {
   background-color: #d5d5d5;
@@ -6635,7 +6637,9 @@ hr {
 
 /*hover menu*/
 .active2 {
-    background-color: #70cee8;
+border-bottom: 4px solid purple;
+  padding: 6px 0; 
+    
 }
 
 
@@ -6650,7 +6654,7 @@ hr {
     
     width: 100%;
     margin: 0 auto;
-    background-color: #white;
+    background-color: white;
 }
 
 
@@ -6679,7 +6683,8 @@ strong{
 }
 
 #myBtn:hover {
-  background-color: deepskyblue;
+ color: blue;
+  padding: 6px 0;
 }
 
 .bg-primary-1{
