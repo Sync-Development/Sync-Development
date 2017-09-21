@@ -6869,3 +6869,7 @@ footer { background-color:#4431a4; max-height:320px; font-family: 'Open Sans', s
         margin-left: -36%;
     margin-right: 29%;
 }
+
+.flag2{
+       display:none;
+}
