@@ -94,20 +94,32 @@ carousel.less:193
 
 
 #kolom-1 {
-    color: deepskyblue;
-    background-color: deepskyblue;
+    color: white;
+        background-image:url("../Sync-Development/images/Kolom.jpg");
+    background-size:cover;
     
 }
 
 #kolom-2 {
-    color: #6ba6da;
-    background-color: #6ba6da;
+    color: white;
+    background-image:url("../Sync-Development/images/Kolom.jpg");
+    background-size:cover;
 }
 
 #kolom-3 {
-    color:  #993399;;
-    background-color: #993399;
-    text-align: center;
+    color:  white;
+    background-image:url("../Sync-Development/images/Kolom.jpg");
+    background-size:cover;
+}
+
+#hoofd{
+    background-color: #D5D5D5;
+    border-color: #D5D5D5;
+}
+
+#voet{
+  background-color: #D5D5D5;
+  border-color: transparent;  
 }
 
 #container{
