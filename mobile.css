@@ -330,9 +330,8 @@ body {
 }
 
 .flag2{
-           display: flex;
-    position: fixed;
+    display: flex;
+    position: absolute;
     margin-left: 87%;
-    margin-bottom: -9%;
-    margin-top: 22px;
+    margin-top: 2.4%;
 }
