@@ -92,26 +92,6 @@ carousel.less:193
      margin: 0 auto;
  }    
 
-
-#kolom-1 {
-    color: white;
-        background-image:url("../Sync-Development/images/Kolom.jpg");
-    background-size:cover;
-    
-}
-
-#kolom-2 {
-    color: white;
-    background-image:url("../Sync-Development/images/Kolom.jpg");
-    background-size:cover;
-}
-
-#kolom-3 {
-    color:  white;
-    background-image:url("../Sync-Development/images/Kolom.jpg");
-    background-size:cover;
-}
-
 #hoofd{
     background-color: #D5D5D5;
     border-color: #D5D5D5;
@@ -238,17 +218,3 @@ margin: 20px 33px 20px 20px;
   font-size: 40px;
   
 }
-
-.jumbotron {
-    background-image: url("../Sync-Development/images/Jumbotron.jpg");
-    background-size:cover;
-    -webkit-filter: blur(5px);
-  filter: blur(5.5px);
-
-
-}
-
-
-
-
-
