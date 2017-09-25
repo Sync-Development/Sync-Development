@@ -1,0 +1,337 @@
+
+.logo{
+    width: 100%;
+    height: 200px;
+    margin: 0 auto; 
+    align-content: center;
+    display:none;
+}
+
+.logomobile{
+    display:flex;
+     width: 15%;
+    height: 50px;
+    margin: 0 auto; 
+    align-content: center;
+    margin-bottom: -15%;
+}
+
+.navbar-default {
+    background-color: #f8f8f8;
+    border-color: #e7e7e7;
+}
+
+.scrollup{
+    width: 50%;
+    margin-right: -7%;
+    margin-bottom: -35px;
+}
+#return-to-top {
+    position: fixed;
+    bottom: 16%;
+    right: 20px;
+   
+    width: 15%;
+    height: 35px;
+    display: block;
+    text-decoration: none;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    border-radius: 35px;
+    display: none;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+#return-to-top i {
+    color: #fff;
+    margin: 0;
+    position: relative;
+    left: 16px;
+    top: 13px;
+    font-size: 19px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+
+#myBtn {
+      display: none;
+    position: fixed;
+    bottom: 8%;
+    right: 1%;
+    z-index: 99;
+    border: none;
+    outline: none;
+    background-color:  transparent;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#myBtn:hover {
+  background-color: deepskyblue;
+}
+
+iframe{
+ max-width: 80%;
+height: 200px;
+    margin-left: 10%;
+    margin-top: 2%;
+    
+}
+
+#container{
+    margin-left: 0%;
+}
+
+
+#wrapper-3{
+     width: 70%;
+    margin: 0 auto;
+
+}
+
+.thumb {
+height: 200px;
+border: 8px solid #4431a4;
+box-shadow: 0px 0px 8px rgba(0,0,0,.3);
+margin: 20px 20px 20px 1px;
+max-width: 100%;
+
+}
+
+.thumb:hover{
+height: 200px;
+border: 8px solid #6ba6da;
+box-shadow: 0px 0px 8px rgba(0,0,0,.3);
+margin: 20px 20px 20px 20px;
+}
+
+#thumblist {
+  text-align: center;
+  border: 4px solid #4431a4;
+  border-radius: 8px;
+  padding: 0;
+  background: rgba(127, 127, 127, .8);
+}
+
+#thumblist img {
+  border-radius: 4px;
+}
+
+
+.description {
+  color: white;
+  text-decoration: none;
+}
+/** relevant CSS Below **/
+
+.lightbox {
+  display: none;
+  /**sets the default display to hide the lightbox until it's the :target**/
+  
+  position: fixed;
+  /**the rest of this styling makes the lightbox full screen when selected**/
+  
+  z-index: 999;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, .8);
+}
+
+.lightbox img {
+  /**sets the styling of the image in the lightbox**/
+  
+  max-width: 80%;
+  max-height: 90%;
+  text-align: center;
+  margin-top: 50%;
+  border: 8px solid #4431a4;
+}
+
+.lightbox img:hover {
+  /**sets the styling of the image in the lightbox**/
+  
+  max-width: 80%;
+  max-height: 90%;
+  text-align: center;
+  margin-top: 50%;
+  border: 8px solid #6ba6da;
+  
+}
+
+.lightbox:target {
+  /**this is where the magic happens. makes the lightbox display when it's the target of a clickable link**/
+  
+  outline: none;
+  display: block;
+}
+
+.previous {
+  /**styling the left arrow**/
+  
+  position: fixed;
+  left: 10%;
+  top: 40%;
+  width: 40px;
+  font-size: 40px;
+  
+}
+
+.exit {
+  /**styling the exit button**/
+  
+  position: fixed;
+  top: 25%;
+  right: 4px;
+  width: 40px;
+  font-size: 40px;
+  
+}
+
+.next {
+  /**styling the right arrow**/
+  
+  position: fixed;
+  right: 10%;
+  top: 40%;
+  width: 40px;
+  font-size: 40px;
+  
+}
+
+.socialmedia1{
+    display:none;
+}
+
+.socialmedia{
+    display:flex;
+}
+
+footer { background-color:#4431a4; max-height:320px; font-family: 'Open Sans', sans-serif; display:none; }
+.footer-col { margin-top:13px; }
+.logofooter { margin-bottom:10px; font-size:25px; color:#fff; font-weight:700; display:none;}
+
+.footer-col p { color:#fff; font-size:12px; font-family: 'Open Sans', sans-serif; margin-bottom:15px; display:none;}
+.footer-col p i { width:20px; color:#999;}
+
+.footer-ul { list-style-type:none;  padding-left:0; margin-left:2px;}
+.footer-ul li { line-height:29px; font-size:12px; display:none;}
+.footer-ul li a { color:#a0a3a4; transition: color 0.2s linear 0s, background 0.2s linear 0s; }
+.footer-ul i { margin-right:10px;}
+.footer-ul li a:hover {transition: color 0.2s linear 0s, background 0.2s linear 0s; color:#ff670f; }
+
+ .copyright { max-height:80px; background-color:#68a6da;     position: absolute;
+    width: 100%;
+    margin-bottom: 0px;}
+.copyright3 { max-height:80px; background-color:#68a6da;     position: absolute;
+    width: 100%;
+    bottom: 13px; }
+ .copyright p { text-align:left; color:#FFF; padding:7px 0; margin-bottom:0;}
+ .heading7 { font-size:21px; font-weight:700; color:#d9d6d6; margin-bottom:22px; display:none;}
+ .post p { font-size:12px; color:#FFF; line-height:20px;}
+ .post p span { display:block; color:#8f8f8f;}
+ .bottom_ul { list-style-type:none; float:right; margin-bottom:0;}
+ .bottom_ul li { float:left; line-height:40px; display:none;}
+ .bottom_ul li:after { content:"/"; color:#FFF; margin-right:8px; margin-left:8px;}
+ .bottom_ul li a { color:#FFF;  font-size:12px; display: none;}
+.social-icon {
+    width: 30px;
+    height: 30px;
+    font-size: 15px;
+    background-color: blue;
+    color: #fff;
+    text-align: center;
+    margin-right: 10px;
+    padding-top: 7px;
+    border-radius: 50%;
+}
+.footer-social1{
+    display:flex;
+}
+.footer-social{
+    display:none;
+}
+ .footer-social li{
+     float:left;
+ }
+ .linked-in{
+     background-color:#007bb6;
+ }
+ .facebook{
+     background-color:#3b5998;
+ }
+ .twitter{
+     background-color:#1da1f2;
+ }
+ .google{
+     background-color:#f63e28;
+ }
+
+.active2 {
+  transition: 0.4s ease;
+  color: navy;
+  font-size: 20px;
+  text-decoration: none;
+  border-bottom: 4px Solid white;
+  padding: 20px 0;
+  margin: 0 20px;
+
+}
+
+.active2:hover {
+border-bottom: 4px solid purple;
+  padding: 4px 0; 
+    
+}
+
+.navbar-static-top {
+    z-index: 1000;
+    width: 100%;
+    margin: 0 auto;
+}
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 0px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+
+.navbar-toggle {
+    position: relative;
+    float: left;
+    padding: 9px 14px;
+    margin-top: 8%;
+    margin-left: 5%;
+    margin-bottom: -7%;
+    background-color: transparent;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.navbar {
+    position: relative;
+    min-height: 65px;
+    margin-bottom: 0px;
+    border: 0px solid transparent;
+}
+
+.flag2{
+    display: flex;
+    position: absolute;
+    margin-left: 87%;
+    margin-top: 2.4%;
+}
