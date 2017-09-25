@@ -221,7 +221,7 @@ margin: 20px 33px 20px 20px;
 
 .bg-img1 {
     /* The image used */
-    background-image: url("../images/Banner%202.jpg");
+    background-image: url("../images/Diensten.jpg");
 
     /* Set a specific height */
     min-height: 500px; 
@@ -235,7 +235,7 @@ margin: 20px 33px 20px 20px;
 
 .bg-img2 {
     /* The image used */
-    background-image: url("../images/Banner%204.jpg");
+    background-image: url("../images/Pakketten.png");
 
     /* Set a specific height */
     min-height: 500px; 
