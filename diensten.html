@@ -349,22 +349,7 @@ function filterFunction() {
 
 <br>
 
-<a href="javascript:" id="return-to-top"><i class="icon-chevron-up"><img class="scrollup" src="images/scroll%5B1%5D.png"> </i></a>
-<script>
-// When the user scrolls down 30px from the top of the document, show the button
-$(window).scroll(function() {
-    if ($(this).scrollTop() >= 10) {        // If page is scrolled more than 50px
-        $('#return-to-top').fadeIn(200);    // Fade in the arrow
-    } else {
-        $('#return-to-top').fadeOut(200);   // Else fade out the arrow
-    }
-});
-$('#return-to-top').click(function() {      // When arrow is clicked
-    $('body,html').animate({
-        scrollTop : 0                       // Scroll to top of body
-    }, 500);
-});
-</script>
+
     
 <link href="https://fortawesome.github.io/Font-Awesome/assets/font-awesome/css/font-awesome.css" rel="stylesheet">
 <!--footer start from here-->
@@ -414,6 +399,7 @@ $('#return-to-top').click(function() {      // When arrow is clicked
 <!--footer start from here-->
 
 
+
 <div class="copyright2">
 <div class="copyright">
   <div class="container">
@@ -429,6 +415,23 @@ $('#return-to-top').click(function() {      // When arrow is clicked
     </div>
        <div class="col-md-3 col-sm-6 footer-col">
         <h6 class="heading7">Social Media</h6>
+           
+    <a href="javascript:" id="return-to-top"><i class="icon-chevron-up"><img class="scrollup" src="images/scroll%5B1%5D.png"> </i></a>
+<script>
+// When the user scrolls down 30px from the top of the document, show the button
+$(window).scroll(function() {
+    if ($(this).scrollTop() >= 10) {        // If page is scrolled more than 50px
+        $('#return-to-top').fadeIn(200);    // Fade in the arrow
+    } else {
+        $('#return-to-top').fadeOut(200);   // Else fade out the arrow
+    }
+});
+$('#return-to-top').click(function() {      // When arrow is clicked
+    $('body,html').animate({
+        scrollTop : 0                       // Scroll to top of body
+    }, 500);
+});
+           </script>
        
     <div class="col-md-6">
       <ul class="bottom_ul">
