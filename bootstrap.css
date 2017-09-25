@@ -6786,25 +6786,14 @@ strong{
 }
 iframe{
  width: 100%;
-height: 300px;
-    
+height: 400px;
+margin-top: -60px;
 }
 
 
 .socialmedia{
     display:none;
-}
-
-iframe{
- width: 100%;
-height: 300px;
-margin-top: -73px;
-margin-bottom: -7px;
-}
-
-
-
-	
+}	
 
 /*Footer*/
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,300);
@@ -6879,18 +6868,7 @@ footer { background-color:#4431a4; max-height:320px; font-family: 'Open Sans', s
 .flag2{
        display:none;
 }
-.carousel-control.right, .carousel-control.left {
-    background-image: none;
-    color: #f4511e;
-}
 
-.carousel-indicators li {
-    border-color: #f4511e;
-}
-
-.carousel-indicators li.active {
-    background-color: #f4511e;
-}
 
 .item h4 {
     font-size: 19px;
