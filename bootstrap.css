@@ -6873,17 +6873,7 @@ footer { background-color:#4431a4; max-height:320px; font-family: 'Open Sans', s
 .flag2{
        display:none;
 }
-.carousel-control.right, .carousel-control.left {
-    background-image: none;
-    color: #f4511e;
-}
 
-.carousel-indicators li {
-    border-color: #f4511e;
-}
-
-.carousel-indicators li.active {
-    background-color: #f4511e;
 }
 
 .item h4 {
