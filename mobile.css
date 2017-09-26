@@ -324,7 +324,7 @@ body {
 
 .navbar {
     position: relative;
-    min-height: 65px;
+    max-height: 90px;
     margin-bottom: 0px;
     border: 0px solid transparent;
 }
@@ -334,6 +334,6 @@ body {
     width: 10%;
     position: absolute;
     margin-left: 86%;
-    margin-top: 25px;
+    margin-top: 27px;
 }
 
