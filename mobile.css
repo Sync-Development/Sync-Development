@@ -324,9 +324,17 @@ body {
 
 .navbar {
     position: relative;
-    max-height: 90px;
+    min-height: 90px;
     margin-bottom: 0px;
     border: 0px solid transparent;
+}
+
+.navbar-brand {
+    float: left;
+    height: 10px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
 }
 
 .flag2{
