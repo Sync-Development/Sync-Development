@@ -349,3 +349,11 @@ body {
     margin-top: 29px;
 }
 
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0%;
+}
+
