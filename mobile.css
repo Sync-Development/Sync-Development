@@ -306,7 +306,7 @@ body {
     font-size: 14px;
     line-height: 1.42857143;
     color: #333;
-    background-color: #fff;
+    background-color: white;
 }
 
 .navbar-toggle {
@@ -335,6 +335,10 @@ body {
     padding: 6px 15px;
     font-size: 18px;
     line-height: 20px;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #4431a4;
 }
 
 .flag2{
