@@ -13,7 +13,7 @@
     height: 50px;
     margin: 0 auto; 
     align-content: center;
-    margin-bottom: -15%;
+    margin-top: 4px;
 }
 
 .navbar-default {
@@ -237,7 +237,7 @@ footer { background-color:#4431a4; max-height:320px; font-family: 'Open Sans', s
 .copyright3 { max-height:80px; background-color:#68a6da;     position: absolute;
     width: 100%;
   }
- .copyright p { text-align:left; color:#FFF; padding:7px 0; margin-bottom:0;}
+ .copyright p { text-align:left; color:#FFF; padding:7px 0; margin-bottom:0; }
  .heading7 { font-size:21px; font-weight:700; color:#d9d6d6; margin-bottom:22px; display:none;}
  .post p { font-size:12px; color:#FFF; line-height:20px;}
  .post p span { display:block; color:#8f8f8f;}
@@ -320,6 +320,7 @@ body {
     background-image: none;
     border: 1px solid transparent;
     border-radius: 4px;
+    margin-top:-41px;
 }
 
 .navbar {
@@ -333,9 +334,30 @@ body {
     display: flex;
     position: absolute;
     margin-left: 87%;
-    margin-top: 2.4%;
+    margin-top: 11px;
 }
 
 .navbar-nav {
     margin: 22.5px -15px;
 }
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+}
+
+.navbar-brand {
+    float: left;
+    height: 30px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0%;
+}
+
