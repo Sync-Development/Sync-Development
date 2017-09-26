@@ -9,8 +9,8 @@
 
 .logomobile{
     display:flex;
-     width: 15%;
-    height: 50px;
+     width: 16%;
+    height: 57px;
     margin: 0 auto; 
     align-content: center;
     margin-bottom: -17%;
@@ -331,7 +331,8 @@ body {
 
 .flag2{
     display: flex;
+    width: 10%;
     position: absolute;
-    margin-left: 87%;
+    margin-left: 86%;
     margin-top: 2.4%;
 }
