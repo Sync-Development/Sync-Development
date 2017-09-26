@@ -27,12 +27,19 @@
     <a href="home.html"><img class="logo" src="images/Sync%20Development%20logo-ingekort.png"></a>
     <a href="home.html"><img class="logomobile" src="images/sync-icon.png"></a>
 <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
+<div id="nav-icon1">
+  <span></span>
+  <span></span>
+  <span></span>
+</div>
 </button>
-
-    
+<script>
+$(document).ready(function(){
+	$('#nav-icon1').click(function(){
+		$(this).toggleClass('open');
+	});
+});
+    </script>    
 <a class="navbar-brand" href="#"></a>
     </div>
 
@@ -126,7 +133,7 @@ function filterFunction() {
 </div>
 
     
-<div class="Wrapper2">
+<div id="wrapper2">
     <h2>Tekst1</h2>
     <p>Sync development bestaat uit een team van drie enthousiasten startende ondernemers. Sinds 31 Augustus 2017 is ons bedrijf van start gegaan, echter werken wij al samen sinds Augustus 2016. <br>
 
