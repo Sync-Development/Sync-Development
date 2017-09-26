@@ -261,6 +261,20 @@ margin: 20px 33px 20px 20px;
     background-size: cover;
 }    
 
+.bg-img4 {
+    /* The image used */
+    background-image: url("../images/Seo-2.jpg");
+
+    /* Set a specific height */
+    min-height: 400px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}    
+
     
 
 #kolom-1 {
@@ -287,8 +301,3 @@ margin: 20px 33px 20px 20px;
         background-attachment: scroll;
     }
 } 
-
-.container-2 {
-      background-color: ;
-  background: rgba(0,0,128, 0.1);
-}
