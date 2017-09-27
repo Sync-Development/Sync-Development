@@ -897,7 +897,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "tauri", sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
   background-color: #fff;
@@ -905,6 +905,8 @@ body {
 
 p{
     color: grey;
+    font-family: 'Tauri', sans-serif;
+    font-size: 17px;
     
 }
 
@@ -914,10 +916,12 @@ body h1{
 
 body h2{
     color: #7816b4;
+    font-family: 'Tauri', sans-serif;
 }
 
 body h3{
     color: #7816b4;
+    font-family: 'Tauri', sans-serif;
 }
 
 
@@ -2926,7 +2930,7 @@ fieldset[disabled] .btn-success.active {
 .open > .dropdown-toggle.btn-info {
   color: #fff;
   background-color: #428bca;
-  border-color: lightblue;
+  border-color: li;
 }
 .btn-info:active,
 .btn-info.active,
