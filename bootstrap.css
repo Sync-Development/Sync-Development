@@ -900,9 +900,28 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
-  color: #333;
   background-color: #fff;
 }
+
+p{
+    color: grey;
+    
+}
+
+body h1{
+    color: #7816b4;
+}
+
+body h2{
+    color: #7816b4;
+}
+
+body h3{
+    color: #7816b4;
+}
+
+
+
 input,
 button,
 select,
@@ -4113,7 +4132,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   color: #777;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #4431a4;
+  color: #7816b4;
 }
  
 
@@ -6647,7 +6666,7 @@ hr {
 
 .active2 {
   transition: 0.4s ease;
-  color: navy;
+  color: #7816b4;
   font-size: 20px;
   text-decoration: none;
   border-bottom: 4px Solid transparent;
