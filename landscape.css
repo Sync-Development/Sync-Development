@@ -273,7 +273,21 @@ margin: 20px 33px 20px 20px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-}    
+} 
+
+.bg-img5 {
+    /* The image used */
+    background-image: url("../images/Stap%20voor%20stap.jpg");
+
+    /* Set a specific height */
+    min-height: 450px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}  
 
     
 
