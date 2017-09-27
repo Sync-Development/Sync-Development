@@ -221,10 +221,10 @@ margin: 20px 33px 20px 20px;
 
 .bg-img1 {
     /* The image used */
-    background-image: url("../images/Diensten.jpg");
+    background-image: url("../images/3%20in%201%20pakket.jpg");
 
     /* Set a specific height */
-    min-height: 500px; 
+    min-height: 520px; 
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
