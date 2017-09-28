@@ -7161,3 +7161,7 @@ footer { background-color:#4431a4; max-height:320px; font-family: 'Open Sans', s
   top: 39px;
   left: 8px;
 }
+
+#button-1 {
+    margin: 0 auto;
+}
