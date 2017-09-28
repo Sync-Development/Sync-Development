@@ -152,8 +152,8 @@ margin: 20px 20px 20px 20px;
 .lightbox img {
   /**sets the styling of the image in the lightbox**/
   
-  min-width: 100%;
-  max-height: 90%;
+  max-width: 100%;
+  min-height: 40%;
   text-align: center;
   margin-top: 50%;
   border: 8px solid #4431a4;
