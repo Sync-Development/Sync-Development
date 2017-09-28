@@ -103,6 +103,12 @@ height: 200px;
     margin: 0 auto;
 
 }
+#wrapper2 {
+    width: 100%;
+     margin: 0 auto;
+    font-family: 'Josefin sans', sans-serif;
+       text-align: center;
+}
 
 .thumb {
 height: 200px;
@@ -410,6 +416,6 @@ border-bottom: 4px solid purple;
 
 #button-1 {
     margin: 0 auto;
-    margin-top: 10%;
-    margin-left: -23%;
+    margin-top: 2%;
+    margin-left: 0%;
 }
