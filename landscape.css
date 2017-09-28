@@ -224,11 +224,10 @@ margin: 20px 33px 20px 20px;
     background-image: url("../Sync-Development/images/3%20in%201%20pakket.jpg");
 
     /* Set a specific height */
-      /* Set a specific height */
-    min-height: 680px; 
+    min-height: 520px; 
 
     /* Create the parallax scrolling effect */
-
+    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -281,14 +280,13 @@ margin: 20px 33px 20px 20px;
     background-image: url("../Sync-Development/images/Stap%20voor%20stap.jpg");
 
     /* Set a specific height */
-    min-height: 600px; 
+    min-height: 450px; 
 
     /* Create the parallax scrolling effect */
-
+    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-
 }  
 
     
@@ -328,6 +326,8 @@ margin: 20px 33px 20px 20px;
     .bg-img4 {
         background-attachment: scroll;
     }
- 
+    
+    .bg-img5 {
+        background-attachment: scroll;
     }
 } 

@@ -182,27 +182,6 @@ margin: 20px 20px 20px 20px;
   
 }
 
-.bg-img1 {
-    background-image: url(../images/3%20in%201%20pakket.jpg);
-   min-height: 450px;
-    /* background-attachment: fixed; */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    width: 100%;
-}
-
-
-.bg-img5 {
-    background-image: url(../images/Stap%20voor%20stap.jpg);
-    min-height: 450px;
-    /* background-attachment: fixed; */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    width: 100%;
-}
-
 .lightbox:target {
   /**this is where the magic happens. makes the lightbox display when it's the target of a clickable link**/
   
