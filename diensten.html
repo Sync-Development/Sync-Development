@@ -233,7 +233,7 @@ function filterFunction() {
     </a>
     
     <div id="galerij-2" class="lightbox">   
-       <a href="#galerij-1" class='prev'>
+       <a href="#galerij-1" class='previous'>
         &lt;
        </a>
         
@@ -258,7 +258,7 @@ function filterFunction() {
     </a>
     
     <div id="galerij-3" class="lightbox">
-      <a href="#galerij-2" class='prev'>
+      <a href="#galerij-2" class='previous'>
         &lt;
       </a>
         
@@ -308,7 +308,7 @@ function filterFunction() {
        </a>
    
     <div id="galerij-5" class="lightbox">    
-       <a href="#galerij-4" class='prev'>
+       <a href="#galerij-4" class='previous'>
         &lt;
       </a>
         
@@ -333,7 +333,7 @@ function filterFunction() {
     </a>
     
     <div id="galerij-6" class="lightbox">
-      <a href="#galerij-5" class='prev'>
+      <a href="#galerij-5" class='previous'>
         &lt;
       </a>
         
@@ -352,24 +352,7 @@ function filterFunction() {
 </div>
 </div>
 
-<script>
-   
-    $(".lightbox").on("touchstart", function(event){
-        var xClick = event.originalEvent.touches[0].pageX;
-    $(this).one("touchmove", function(event){
-        var xMove = event.originalEvent.touches[0].pageX;
-        if( Math.floor(xClick - xMove) > 5 ){
-            $(".lightbox").carousel('next');
-        }
-        else if( Math.floor(xClick - xMove) < -5 ){
-            $(".lightbox").carousel('prev');
-        }
-    });
-    $(".lightbox").on("touchend", function(){
-            $(this).off("touchmove");
-    });
-});
-    </script>
+
 <br>
 
 
