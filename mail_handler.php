@@ -11,10 +11,12 @@
 		$headers="From: ".$email;
 
 		if(mail($to, $subject, $message, $headers)){
-			echo "<h1>Bedankt voor uw bericht!"." ".$name.", Wij nemen zo snel mogelijk contact met u op.</h1>";
+			 header('Refresh: 3; url=contact.html');
+            echo 'Heel erg bedankt voor uw bericht, we nemen zo snel mogelijk contact met u op!';
 		}
 		else{
-			echo "Something went wrong!";
+			header('Refresh: 3; url=contact.html');
+            echo 'Er is iets mis gegaan, u wordt terug gestuurd naar contact';
 		}
 	}
 ?>
