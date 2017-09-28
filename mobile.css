@@ -375,6 +375,77 @@ body {
     height: auto;
     margin-left: 0%;
     margin-top: 0%;
+}
+
+.bg-img1 {
+    /* The image used */
+    background-image: url("../images/3%20in%201%20pakket.jpg");
+
+    /* Set a specific height */
+    min-height: 200px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-img2 {
+    /* The image used */
+    background-image: url("../images/Pakketten.png");
+
+    /* Set a specific height */
+    min-height: 250px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}  
+
+.bg-img3 {
+    /* The image used */
+    background-image: url("../images/Laptop.jpg");
+
+    /* Set a specific height */
+    min-height: 250px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}    
+
+.bg-img4 {
+    /* The image used */
+    background-image: url("../images/Seo-2.jpg");
+
+    /* Set a specific height */
+    min-height: 250px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
+
+.bg-img5 {
+    /* The image used */
+    background-image: url("../images/Stap%20voor%20stap.jpg");
+
+    /* Set a specific height */
+    min-height: 200px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }  
 
 

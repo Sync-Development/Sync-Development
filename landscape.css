@@ -221,7 +221,7 @@ margin: 20px 33px 20px 20px;
 
 .bg-img1 {
     /* The image used */
-    background-image: url("../Sync-Development/images/3%20in%201%20pakket.jpg");
+    background-image: url("../images/3%20in%201%20pakket.jpg");
 
     /* Set a specific height */
     min-height: 520px; 
@@ -235,7 +235,7 @@ margin: 20px 33px 20px 20px;
 
 .bg-img2 {
     /* The image used */
-    background-image: url("../Sync-Development/images/Pakketten.png");
+    background-image: url("../images/Pakketten.png");
 
     /* Set a specific height */
     min-height: 500px; 
@@ -249,7 +249,7 @@ margin: 20px 33px 20px 20px;
 
 .bg-img3 {
     /* The image used */
-    background-image: url("../Sync-Development/images/Laptop.jpg");
+    background-image: url("../images/Laptop.jpg");
 
     /* Set a specific height */
     min-height: 400px; 
@@ -263,7 +263,7 @@ margin: 20px 33px 20px 20px;
 
 .bg-img4 {
     /* The image used */
-    background-image: url("../Sync-Development/images/Seo-2.jpg");
+    background-image: url("../images/Seo-2.jpg");
 
     /* Set a specific height */
     min-height: 400px; 
@@ -277,7 +277,7 @@ margin: 20px 33px 20px 20px;
 
 .bg-img5 {
     /* The image used */
-    background-image: url("../Sync-Development/images/Stap%20voor%20stap.jpg");
+    background-image: url("../images/Stap%20voor%20stap.jpg");
 
     /* Set a specific height */
     min-height: 450px; 
