@@ -292,26 +292,39 @@ margin: 20px 33px 20px 20px;
     
 
 #kolom-1 {
-    color: white;
-        background-image:url("../images/Kolom.jpg");
+    background-image:url("../images/Kolom.jpg");
     background-size:cover;
     
 }
 
 #kolom-2 {
-    color: white;
     background-image:url("../images/Kolom.jpg");
     background-size:cover;
 }
 
 #kolom-3 {
-    color:  white;
     background-image:url("../images/Kolom.jpg");
     background-size:cover;
 }
     
 @media only screen and (max-device-width: 1024px) {
-    .parallax {
+    .bg-img1 {
+        background-attachment: scroll;
+    }
+    
+    .bg-img2 {
+        background-attachment: scroll;
+    }
+    
+    .bg-img3 {
+        background-attachment: scroll;
+    }
+    
+    .bg-img4 {
+        background-attachment: scroll;
+    }
+    
+    .bg-img5 {
         background-attachment: scroll;
     }
 } 
