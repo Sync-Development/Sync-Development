@@ -155,16 +155,16 @@ margin: 20px 33px 20px 20px;
   text-align: center;
   top: 0;
   left: 0;
-  background: rgba(0, 0, 0, .8);
+  background:lightgrey;
 }
 
 .lightbox img {
   /**sets the styling of the image in the lightbox**/
   
-  max-width: 80%;
-  max-height: 90%;
+  min-width: 70%;
+  min-height: 90%;
   text-align: center;
-  margin-top: 2%;
+  margin-top: 1%;
   border: 8px solid #4431a4;
 }
 
