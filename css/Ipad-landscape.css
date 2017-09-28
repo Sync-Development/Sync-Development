@@ -150,8 +150,8 @@ margin: 20px 20px 20px 20px;
 .lightbox img {
   /**sets the styling of the image in the lightbox**/
   
-  max-width: 80%;
-  max-height: 90%;
+  min-width: 90%;
+  min-height: 90%;
   text-align: center;
   margin-top: 3%;
   border: 8px solid #4431a4;
@@ -173,16 +173,17 @@ margin: 20px 20px 20px 20px;
   
   outline: none;
   display: block;
+  background-color: lightgrey;
 }
 
 .previous {
   /**styling the left arrow**/
   
   position: fixed;
-  left: 10%;
-  top: 40%;
+  left: 6%;
+  top: 84%;
   width: 40px;
-  font-size: 40px;
+  font-size: 48px;
   
 }
 
@@ -190,11 +191,11 @@ margin: 20px 20px 20px 20px;
   /**styling the exit button**/
   
   position: fixed;
-  top: 25%;
-  right: 4px;
+  top: 5%;
+  right: 62px;
   width: 40px;
-  font-size: 40px;
-  
+  font-size: 48px;
+  color:white;
 }
 
 #button-1 {
@@ -208,9 +209,9 @@ margin: 20px 20px 20px 20px;
   
   position: fixed;
   right: 6%;
-  top: 40%;
+  top: 84%;
   width: 40px;
-  font-size: 40px;
+  font-size: 48px;
   
 }
 
