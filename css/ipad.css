@@ -448,3 +448,8 @@ border-bottom: 4px solid purple;
     background-repeat: no-repeat;
     background-size: cover;
 }  
+.row2 {
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-right: 5%;
+}
