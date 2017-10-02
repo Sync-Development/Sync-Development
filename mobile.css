@@ -454,3 +454,9 @@ html,body
 {
 min-height:100%;
 }
+
+.row2 {
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-left: -8%;
+}
