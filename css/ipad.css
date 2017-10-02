@@ -435,6 +435,50 @@ border-bottom: 4px solid purple;
     background-size: cover;
 }
 
+.bg-img2 {
+    /* The image used */
+    background-image: url("../images/Pakketten.png");
+
+    /* Set a specific height */
+    min-height: 400px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}  
+
+.bg-img3 {
+    /* The image used */
+    background-image: url("../images/Laptop.jpg");
+
+    /* Set a specific height */
+    min-height: 400px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}    
+
+.bg-img4 {
+    /* The image used */
+    background-image: url("../images/Seo-2.jpg");
+
+    /* Set a specific height */
+    min-height: 400px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
+
+
 .bg-img5 {
     /* The image used */
     background-image: url("../images/Stap%20voor%20stap.jpg");
