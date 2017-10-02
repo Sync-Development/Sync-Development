@@ -1434,7 +1434,7 @@ pre code {
 @media (min-width: 1200px) {
   .container {
     width: 1170px;
-          margin-left: 14%;
+          margin-left: 6.5%;
   }
 }
 .container-fluid {
@@ -1800,7 +1800,7 @@ pre code {
     width: 33.33333333%;
   }
   .col-md-3 {
-    width: 25%;
+    width: 30%;
   }
   .col-md-2 {
     width: 16.66666667%;
