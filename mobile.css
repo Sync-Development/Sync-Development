@@ -281,7 +281,7 @@ footer { background-color:#4431a4; max-height:320px; font-family: 'Open Sans', s
 
 .active2 {
   transition: 0.4s ease;
-  color: navy;
+  color: #124b8c;
   font-size: 20px;
   text-decoration: none;
   border-bottom: 4px Solid white;
@@ -291,7 +291,7 @@ footer { background-color:#4431a4; max-height:320px; font-family: 'Open Sans', s
 }
 
 .active2:hover {
-border-bottom: 4px solid purple;
+border-bottom: 4px solid #124b8c;
   padding: 4px 0; 
     
 }
