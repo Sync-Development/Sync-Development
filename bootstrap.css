@@ -1434,7 +1434,7 @@ pre code {
 @media (min-width: 1200px) {
   .container {
     width: 1170px;
-          margin-left: 6.5%;
+
   }
 }
 .container-fluid {
@@ -7252,6 +7252,11 @@ footer { background-color:#4431a4; max-height:320px; font-family: 'Open Sans', s
 }
     .panel-success {
     border-color: #74acca;
+}
+.row2 {
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-left: 8%;
 }
   
     
