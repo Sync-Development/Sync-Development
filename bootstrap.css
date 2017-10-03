@@ -927,6 +927,11 @@ body h2{
     font-family: 'Tauri', sans-serif;
 }
 
+body h22{
+    color: #124b8c;
+    font-family: 'Tauri', sans-serif;
+}
+
 body h3{
     color: #124b8c;
     font-family: 'Tauri', sans-serif;
@@ -1118,6 +1123,12 @@ h1,
 h2,
 .h2 {
   font-size: 30px;
+        margin-top: 6%;
+}
+h22,
+.h22 {
+  font-size: 30px;
+        margin-top: 3%;
 }
 h3,
 .h3 {
