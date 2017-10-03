@@ -910,6 +910,14 @@ p{
     
 }
 
+p2{
+    color: grey;
+    font-family: 'Tauri', sans-serif;
+    font-size: 15px;
+    
+}
+
+
 body h1{
     color: #124b8c;
 }
@@ -923,7 +931,10 @@ body h3{
     color: #124b8c;
     font-family: 'Tauri', sans-serif;
 }
-
+body h4{
+    color: #124b8c;
+    font-family: 'Tauri', sans-serif;
+}
 
 
 input,
@@ -1059,7 +1070,7 @@ h1,
 h2,
 .h2,
 h3,
-.h3 {
+.h3,{
   margin-top: 20px;
   margin-bottom: 10px;
 }
@@ -1114,7 +1125,7 @@ h3,
 }
 h4,
 .h4 {
-  font-size: 18px;
+  font-size: 20px;
 }
 h5,
 .h5 {
@@ -6703,6 +6714,14 @@ border-bottom: 4px solid #124b8c;
     background-color: white;
 }
 
+.wrapper-3{
+    width: 80%;
+    margin: 0 auto;
+    font-family:'Josefin sans', sans-serif; 
+
+}
+}
+
 #wrapper4{
     
     width: 100%;
@@ -7260,5 +7279,7 @@ footer { background-color:#124b8c; max-height:320px; font-family: 'Open Sans', s
     margin-left: -15px;
     margin-left: 8%;
 }
-  
+.table{
+    margin-left: 1%;
+}
     
