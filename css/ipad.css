@@ -492,8 +492,9 @@ border-bottom: 4px solid purple;
 }  
 .row2 {
     margin-right: -15px;
-    margin-left: -15px;
+    margin-left: 0px;
     margin-right: -13%;
+        width: 100%;
 }
 
 .panel
