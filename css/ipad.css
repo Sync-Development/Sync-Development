@@ -597,13 +597,13 @@ border-bottom: 4px solid purple;
 }
 .panel-primary>.panel-heading {
     color: #fff;
-    background-color: #4431a3;
-    border-color: #4431a3;
+    background-color: #124b8c;
+    border-color: #124b8c;
 }
     .panel-success>.panel-heading {
     color: #ffffff;
-    background-color: #74acca;
-    border-color: #74acca;
+    background-color: #68a6da;
+    border-color: #68a6da;
 }
     .panel-success {
     border-color: #74acca;

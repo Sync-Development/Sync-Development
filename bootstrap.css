@@ -2105,7 +2105,8 @@ th {
   padding: 8px;
   line-height: 1.42857143;
   vertical-align: top;
-  border-top: 1px solid #ddd;
+  font-family: 'Tauri', sans-serif;
+  border-top: 1px solid grey;
 }
 .table > thead > tr > th {
   vertical-align: bottom;
@@ -2880,8 +2881,8 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-success {
   color: #fff;
-  background-color: #5cb85c;
-  border-color: #4cae4c;
+  background-color: #124b8c;
+  border-color: #124b8c;
 }
 .btn-success:hover,
 .btn-success:focus,
@@ -2889,8 +2890,8 @@ fieldset[disabled] .btn-primary.active {
 .btn-success.active,
 .open > .dropdown-toggle.btn-success {
   color: #fff;
-  background-color: #449d44;
-  border-color: #398439;
+  background-color: #68a6da;
+  border-color: #68a6da;
 }
 .btn-success:active,
 .btn-success.active,
@@ -5286,9 +5287,9 @@ a.list-group-item-danger.active:focus {
   border-color: #bce8f1;
 }
 .panel-info > .panel-heading {
-  color: #31708f;
-  background-color: #d9edf7;
-  border-color: #bce8f1;
+  color: white;
+  background-color: #74acca;
+  border-color: #74acca;
 }
 .panel-info > .panel-heading + .panel-collapse > .panel-body {
   border-top-color: #bce8f1;
@@ -7242,13 +7243,13 @@ footer { background-color:#124b8c; max-height:320px; font-family: 'Open Sans', s
 }
 .panel-primary>.panel-heading {
     color: #fff;
-    background-color: #4431a3;
-    border-color: #4431a3;
+    background-color: #124b8c;
+    border-color: #124b8c;
 }
     .panel-success>.panel-heading {
     color: #ffffff;
-    background-color: #74acca;
-    border-color: #74acca;
+    background-color: #68a6da;
+    border-color: #68a6da;
 }
     .panel-success {
     border-color: #74acca;
