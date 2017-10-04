@@ -266,7 +266,7 @@ body {
 
 .bg-img1 {
     /* The image used */
-    background-image: url("../images/3%20in%201%20pakket.jpg");
+    background-image: url("../images/Sync_Development_Alphen_ad_Rijn_3_in_1_pakket_banner.jpg");
 
     /* Set a specific height */
     min-height: 200px; 
@@ -278,23 +278,9 @@ body {
     background-size: cover;
 }
 
-.bg-img2 {
-    /* The image used */
-    background-image: url("../images/Pakketten.png");
-
-    /* Set a specific height */
-    min-height: 250px; 
-
-    /* Create the parallax scrolling effect */
-    background-attachment: scroll;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}  
-
 .bg-img3 {
     /* The image used */
-    background-image: url("../images/Laptop.jpg");
+    background-image: url("../images/Sync_Development_Alphen_ad_Rijn_Laptop_mobiel_computer.jpg");
 
     /* Set a specific height */
     min-height: 250px; 
@@ -308,7 +294,7 @@ body {
 
 .bg-img4 {
     /* The image used */
-    background-image: url("../images/Seo-2.jpg");
+    background-image: url("../images/Sync_Development_Alphen_ad_Rijn_Seo.jpg");
 
     /* Set a specific height */
     min-height: 250px; 
@@ -323,7 +309,7 @@ body {
 
 .bg-img5 {
     /* The image used */
-    background-image: url("../images/Stap%20voor%20stap.jpg");
+    background-image: url("../images/Sync_Development_Alphen_ad_Rijn_Werkwijze.jpg");
 
     /* Set a specific height */
     min-height: 200px; 

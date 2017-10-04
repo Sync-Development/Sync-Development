@@ -108,7 +108,7 @@ carousel.less:193
 
 .bg-img1 {
     /* The image used */
-    background-image: url("../Sync-Development/images/3%20in%201%20pakket.jpg");
+    background-image: url("../images/Sync_Development_Alphen_ad_Rijn_3_in_1_pakket_banner.jpg");
 
     /* Set a specific height */
     min-height: 450px; 
@@ -122,7 +122,7 @@ carousel.less:193
 
 .bg-img3 {
     /* The image used */
-    background-image: url("../images/Laptop.jpg");
+    background-image: url("../images/Sync_Development_Alphen_ad_Rijn_Laptop_mobiel_computer.jpg");
 
     /* Set a specific height */
     min-height: 400px; 
@@ -136,7 +136,7 @@ carousel.less:193
 
 .bg-img4 {
     /* The image used */
-    background-image: url("../images/Seo-2.jpg");
+    background-image: url("../images/Sync_Development_Alphen_ad_Rijn_Seo.jpg");
 
     /* Set a specific height */
     min-height: 400px; 
@@ -150,7 +150,7 @@ carousel.less:193
 
 .bg-img5 {
     /* The image used */
-    background-image: url("../Sync-Development/images/Stap%20voor%20stap.jpg");
+    background-image: url("../images/Sync_Development_Alphen_ad_Rijn_Werkwijze.jpg");
 
     /* Set a specific height */
     min-height: 450px; 
