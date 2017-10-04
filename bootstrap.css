@@ -1130,6 +1130,7 @@ h22,
   font-size: 30px;
         margin-top: 3%;
 }
+
 h3,
 .h3 {
   font-size: 24px;
@@ -6457,6 +6458,7 @@ button.close {
 .icon{
 	text-align:center;
 	line-height:9;
+    margin-top: 10%;
 }
 .metro .tile .tile-content icon { 
 	margin:auto;
