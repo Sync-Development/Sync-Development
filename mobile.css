@@ -13,7 +13,7 @@
     height: 57px;
     margin: 0 auto; 
     align-content: center;
-    margin-top: 20px;
+    margin-top: 5px;
 }
 
 .navbar-default {
@@ -344,7 +344,7 @@ body {
 
 .navbar {
     position: relative;
-    min-height: 90px;
+    min-height: 70px;
     margin-bottom: 0px;
     border: 0px solid transparent;
 }
@@ -366,7 +366,7 @@ body {
     width: 11.5%;
     position: absolute;
     margin-left: 86%;
-    margin-top: 29px;
+    margin-top: 12px;
 }
 
 .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
