@@ -258,10 +258,53 @@ function filterFunction() {
 		
 <h2>Offerte</h2>
     <hr>
-<p>Heeft u vragen of wilt een offerte aanvragen? Neem dan contact op via de onderstaande gegevens. doordeweeks zijn wij bereikbaar van 9:00 tot 18:00. In het weekend kunt u ook contact met ons opnemen gelieve dit van te voren aanvragen.</p>
+<p>Heeft u vragen of wilt een offerte aanvragen? Neem dan contact op via de onderstaande gegevens. doordeweeks zijn wij bereikbaar van 9:00 tot 18:00.</p>
  
+     <button id="button-1" type="button" class="btn btn-info" data-toggle="modal" data-target="#contact">Vraag hier uw offerte aan!</button>
+ 
+       
+      <div class="modal fade" id="contact" tabindex="-1" role="dialog" aria-labelledby="modallabel">
+          <div class="modal-dialog" role="document">
+        <div class="modal-content">
+             <div class="model-header">
+             <button type="button" class="close" data-dismiss="modal" aria-label="close">
+                 <span aria-hidden="true">&times;</span></button>
+                 <h2 class="modal-title" id="modallabel">Contact</h2>
+             </div>
+             <div class="modal-body">
+                 <p>Voor al uw vragen</p>
+               <form method="POST" action="mail_handler.php">
+                 <div class="col-sm-12 slideanim">
+                 <div class="row">
+                   <div class="col-sm-6 form-group">
+                    <input class="form-control" id="name" name="name" placeholder="Naam" type="text" required>
+                   </div>
+                   <div class="col-sm-6 form-group">
+                     <input class="form-control" id="phone" name="phone" placeholder="Telefoonnummer" type="text" required>
+                   </div> 
+                   <div class="col-sm-12 form-group">
+                     <input class="form-control" id="email" name="email" placeholder="Email" type="email" required>
+                  </div>
+                  </div>
+                  <textarea class="form-control" id="msg" name="msg" placeholder="Bericht" rows="5"></textarea><br>
+                   <div class="row">
+                   <div class="col-sm-12 form-group">
+                    <button class="btn btn-default pull-right" id="submit" name="submit" type="submit">Verstuur</button>
+                  </div>
+                  </div>
+                  </div>
+                </form>     
+             </div>
+             <div class="modal-footer">
+             <button type="button" data-dismiss="modal" class="btn btn-default">
+                 Sluiten
+             </button>
+            </div>  
+         </div>
+        </div>
+       </div> 
     </div>
-
+<br>
 
     
         <div class="bg-img2"></div>
