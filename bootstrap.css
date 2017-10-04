@@ -4171,7 +4171,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #124b8c;
+  color: #68a6da;
  
 }
 .navbar-default .navbar-nav > .active > a,
@@ -6706,7 +6706,7 @@ hr {
 }
 
 .active2:hover {
-border-bottom: 4px solid #124b8c;
+border-bottom: 4px solid #68a6da;
   padding: 4px 0; 
     
 }

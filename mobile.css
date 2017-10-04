@@ -100,7 +100,7 @@ height: 200px;
 
 .thumb {
 height: 200px;
-border: 8px solid #4431a4;
+border: 8px solid #124b8c;
 box-shadow: 0px 0px 8px rgba(0,0,0,.3);
 margin: 20px 20px 20px 1px;
 max-width: 100%;
@@ -109,7 +109,7 @@ max-width: 100%;
 
 .thumb:hover{
 height: 200px;
-border: 8px solid #6ba6da;
+border: 8px solid #68a6da;
 box-shadow: 0px 0px 8px rgba(0,0,0,.3);
 margin: 20px 20px 20px 20px;
 }
@@ -291,7 +291,7 @@ footer { background-color:#4431a4; max-height:320px; font-family: 'Open Sans', s
 }
 
 .active2:hover {
-border-bottom: 4px solid #124b8c;
+border-bottom: 4px solid #68a6da;
   padding: 4px 0; 
     
 }
