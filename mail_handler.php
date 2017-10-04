@@ -11,7 +11,7 @@
 		$headers="From: ".$email;
 
 		if(mail($to, $subject, $message, $headers)){
-             header("Refresh: 3; url=gegevens_contact.html");
+             header("Refresh: 3; url=contact.html");
  
 			echo "<h1>Bedankt voor uw bericht!"." ".$name.", Wij nemen zo snel mogelijk contact met u op.</h1>";
 		}
