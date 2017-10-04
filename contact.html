@@ -16,24 +16,7 @@
 <link rel="stylesheet" media="(min-width: 760px) and (orientation: portrait)" href="css/ipad.css">
 <link rel="stylesheet" media="(max-width: 1370px) and (orientation: landscape)" href="css/Ipad-landscape.css">
 <link href="https://fonts.googleapis.com/css?family=Tauri" rel="stylesheet"> 
-<script type="text/javascript" src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
-    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery.validate/1.7/jquery.validate.min.js"></script>
-    <script type="text/javascript">
-    $(document).ready(function(){
-        $("#myform").validate({
-            debug: false,
-            submitHandler: function(form) {
-                // do other stuff for a valid form
-                $.post('mail_handlerphp', $("#myform").serialize(), function(data) {
-                    $('#results').html(data);
-                });
-            }
-        });
-    });
-    </script>
-    <style>
-    label.error { width: 250px; display: inline; color: red;}
-    </style>
+    
 </head>
 <body>
     
@@ -139,7 +122,7 @@ function filterFunction() {
       <p><span class="glyphicon glyphicon-envelope" style="color: #4431a7;"></span> infosyncdevelopment@gmail.com</p>
     </div>
     
-      <form method="POST" action="" id="myform">
+      <form method="POST" action="mail_handler.php">
       <div class="col-sm-7 slideanim">
       <div class="row">
         <div class="col-sm-6 form-group">
@@ -163,7 +146,7 @@ function filterFunction() {
 </div> 
         </div>
     </form> 
-<div id="results"><div>
+
 <div id="wrapper2">
           <div class="media">        
             <div class="media-body">
