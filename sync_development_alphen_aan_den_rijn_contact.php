@@ -135,7 +135,10 @@ function filterFunction() {
       <p><span class="glyphicon glyphicon-envelope" style="color: #4431a7;"></span> infosyncdevelopment@gmail.com</p>
     </div>
     
-      <form method="POST" action="mail_handler.php">
+      <?php
+    if(isset($_GET['msg'])) echo $_GET['msg'];
+?>
+<form method="POST" action="mail_handler.php">
       <div class="col-sm-7 slideanim">
       <div class="row">
         <div class="col-sm-6 form-group">
