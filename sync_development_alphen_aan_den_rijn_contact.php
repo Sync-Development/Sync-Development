@@ -79,7 +79,7 @@ $(document).ready(function(){
 </li>
     
 <li>
-<a  class="active2" href="sync_development_alphen_aan_den_rijn_contact.html"><strong>Contact</strong></a>
+<a  class="active2" href="sync_development_alphen_aan_den_rijn_contact.php"><strong>Contact</strong></a>
  </li>
 </ul>
 
