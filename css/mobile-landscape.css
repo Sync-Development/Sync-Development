@@ -254,7 +254,7 @@ body {
     background-image: url("../images/Sync_Development_Alphen_ad_Rijn_3_in_1_pakket_banner.jpg");
 
     /* Set a specific height */
-    min-height: 300px; 
+    min-height: 300px;
 
     /* Create the parallax scrolling effect */
     background-attachment: scroll;
