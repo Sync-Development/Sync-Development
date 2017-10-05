@@ -118,6 +118,7 @@ carousel.less:193
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    margin-top: 1%;
 }
 
 .bg-img3 {
@@ -132,6 +133,7 @@ carousel.less:193
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+ 
 }    
 
 .bg-img4 {
@@ -160,7 +162,7 @@ carousel.less:193
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-
+        margin-top: 1%;
 }  
 
     
