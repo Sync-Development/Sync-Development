@@ -20,5 +20,5 @@ else{
 }
 
 header("Location: sync_development_alphen_aan_den_rijn_contact.php?$msg");
-$msg = "<h1>Bedankt voor uw bericht!"." ".$name.", Wij nemen zo snel mogelijk contact met u op.</h1>";
+
 } ?>
