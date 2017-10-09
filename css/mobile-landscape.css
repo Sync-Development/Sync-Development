@@ -9,11 +9,12 @@
 
 .logomobile{
     display:flex;
-     width: 15%;
+     width: 13%;
     height: 50px;
     margin: 0 auto; 
     align-content: center;
-    margin-top: 4px;
+    margin-top: 11px;
+    margin-bottom:-22px;
 }
 
 .navbar-default {
@@ -206,7 +207,7 @@ body {
     background-image: none;
     border: 1px solid transparent;
     border-radius: 4px;
-    margin-top:-41px;
+    margin-top:-19px;
 }
 
 .navbar {
@@ -218,9 +219,10 @@ body {
 
 .flag2{
     display: flex;
+    width: 6.5%;
     position: absolute;
     margin-left: 87%;
-    margin-top: 11px;
+    margin-top: 18px;
 }
 
 .navbar-nav {
