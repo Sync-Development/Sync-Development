@@ -14,10 +14,10 @@
 <meta charset="UTF-8">
 
 <meta name="keywords" content="waddinxveen website, website stijling, alphen website, gouda website, leiden website, website, website bouwen, goedkoop website, snel website, mobiel">
-<meta name="description" content="Sync Development is gelokaliseerd in Alphen ad Rijn met het 3 in 1 pakket voor de startende ondernemer, Niet naar 3 verschillende bedrijven hoeven te gaan voor deze diensten no nonsense! - Onze aan te bieden pakketten!">    
+<meta name="description" content="Sync Development is gelokaliseerd in Alphen ad Rijn met het 3 in 1 pakket voor de startende ondernemer, Niet naar 3 verschillende bedrijven hoeven te gaan voor deze diensten no nonsense!">      
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Diensten | Sync-development</title>
+<title>Sync-development</title>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
@@ -27,19 +27,22 @@
 <link rel="stylesheet"  media="(max-width: 690px) and (orientation: portrait)" href="mobile.css">
 <link rel="stylesheet" media="(max-width: 750px) and (orientation: landscape)" href="css/mobile-landscape.css">
 <link rel="stylesheet" media="(min-width: 760px) and (orientation: portrait)" href="css/ipad.css">
-<link rel="stylesheet" media="(min-width: 1024px) and (orientation: portrait)" href="css/ipad-pro.css">    
+
 <link rel="stylesheet" media="(max-width: 1370px) and (orientation: landscape)" href="css/Ipad-landscape.css">
 <link href="https://fonts.googleapis.com/css?family=Tauri" rel="stylesheet"> 
-    
 </head>
 <body>
+
+
+    
+
     
 <div class="navbar navbar-default navbar-static-top">
 <div class="container-fluid">
 <div class="navbar-header">
     <img class="flag2" src="images/netherlands-flag-round-icon-32.png">
-    <a href="home.html"><img class="logo" src="images/Sync_Development_Alphen_ad_Rijn_Logo.png"></a>
-    <a href="home.html"><img class="logomobile" src="images/Sync_Development_Alphen_ad_Rijn_Logo_icon_mobiel.png"></a>
+    <a href="index.php"><img class="logo" src="images/Sync_Development_Alphen_ad_Rijn_Logo.png"></a>
+    <a href="index.php"><img class="logomobile" src="images/Sync_Development_Alphen_ad_Rijn_Logo_icon_mobiel.png"></a>
 <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
 <div id="nav-icon3">
   <span></span>
@@ -55,23 +58,24 @@ $(document).ready(function(){
 	});
 });
     </script>  
-
+    
+    
 <a class="navbar-brand" href="#"></a>
-</div>
+    </div>
 
 <div class="collapse navbar-collapse navbar-responsive-collapse">
 <ul class="nav navbar-nav navbar-right">
 <li>
-<a  class="active2" href="home.html"><strong>Home</strong></a>
+<a  class="active2" href="index.php"><strong>Home</strong></a>
 </li>
 <li class="dropdown">
    
 <li>
- <a  class="active2" href="sync_development_alphen_aan_den_rijn_diensten.html"><strong>Diensten</strong></a>
+ <a  class="active2" href="sync_development_alphen_aan_den_rijn_diensten.php"><strong>Diensten</strong></a>
 </li>
 
 <li>
-<a  class="active2" href="sync_development_alphen_aan_den_rijn_werkwijze.html"><strong>Werkwijze</strong></a>
+<a  class="active2" href="sync_development_alphen_aan_den_rijn_werkwijze.php"><strong>Werkwijze</strong></a>
 </li>
     
 <li>
@@ -79,12 +83,13 @@ $(document).ready(function(){
  </li>
 </ul>
    <!--De class zort ervoor dat dit menu wordt gelinked met de animatie in de css-->
-
 </div>
 </div>
 </div>
 
-    
+
+ 
+
 <script>
 /* When the user clicks on the button,
 toggle between hiding and showing the dropdown content */
@@ -107,174 +112,97 @@ function filterFunction() {
     }
 }
 </script>
-  
-    
-    <div class="bg-img1" title="Sync_development_Alphen_ad_Rijn_3_in_1_pakket"></div>
 
-  <div id="wrapper2">
-      <div id="pakketten"></div>
-      <h1>3 in 1 Development Pakketten voor de kleine ondernemer</h1>
-      <hr>
-       <p>Bij Sync development werken wij met 3 standaard pakketten.<br> Deze pakketten brengen ieder hun voordeel voor een bepaalde situatie naar voren, zie ieder pakket dus voornamelijk als een bouwplan. 
-</p>
+
+    
 
       
-
-<br> <br> <br>
-    
-<!-- Container (Pricing Section) -->
-    
-<div class="container">
-    <div class="row2">
-        <div class="col-xs-12 col-sm-6 col-md-3">
-            <div class="panel panel-primary">
-                <div class="panel-heading">
-                    <h1 class="panel-title">
-                        Standaard</h1>
-                </div>
-                <div class="panel-body">
-                    <div class="the-price">
-                        <h1>
-                           Vanaf €399</h1>
-           
-                    </div>
-                    <table class="table">
-                        <tr>
-                            <td>
-                                 &LT;webhosting&GT;
-                            </td>
-                        </tr>
-                        <tr class="active">
-                            <td>
-                                  &LT;webdevelopment&GT;
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                 &LT;Domeinnaam&GT;
-                            </td>
-                        </tr>
-                        <tr class="active">
-                            <td>
-                                 &LT;Seo&GT;
-                            </td>
-                        </tr>
-                            <tr class="active">
-                        <tr>
-                            <td>
-                                &LT;Styling en Promotie&GT;
-                            </td>
-                        </tr>
-                       
-                    </table>
-                </div>
-                <div class="panel-footer">
-                    <a href="sync_development_alphen_aan_den_rijn_meer_info.html" class="btn btn-info" role="button">Meer info</a>
-                   </div>
+ 
+<div class="bs-example">
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!-- Carousel indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+        
+        </ol>   
+        <!-- Wrapper for carousel items -->
+        <div class="carousel-inner">
+            <div class="item active">
+                <img src="images/Sync_Development_Alphen_ad_Rijn_Hoofdpagina_Responsive.png" width="100%" alt="First Slide">
+            </div>
+            <div class="item">
+                <img src="images/Sync_Development_Alphen_ad_Rijn_Hoofdpagina_2.jpg" alt="Third Slide">
             </div>
         </div>
-        <div class="col-xs-12 col-sm-6 col-md-3">
-            <div class="panel panel-success">
-                <div class="cnrflash">
-                </div>
-                <div class="panel-heading">
-                    <h1 class="panel-title">
-                        Plus</h1>
-                </div>
-                <div class="panel-body">
-                    <div class="the-price">
-                        <h1>
-                           Vanaf €599</h1>
-            
-                    </div>
-                    <table class="table">
-                        <tr>
-                            <td>
-                              &LT;webhosting&GT;
-                            </td>
-                        </tr>
-                        <tr class="active">
-                            <td>
-                             &LT;webdevelopment&GT;
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                &LT;Domeinnaam&GT;
-                            </td>
-                        </tr>
-                        <tr class="active">
-                            <td>
-                                 &LT;Seo&GT; <span class="glyphicon glyphicon-plus" style="color:#124b8c"></span>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                &LT;Styling en Promotie&GT; <span class="glyphicon glyphicon-plus" style="color:#124b8c"></span>
-                            </td>
-                        </tr>      
-                    </table>
-                </div>
-                <div class="panel-footer">
-                    <a href="sync_development_alphen_aan_den_rijn_meer_info.html" class="btn btn-info" role="button">Meer info</a>
-                    </div>
-            </div>
-        </div>
-        <div class="col-xs-12 col-sm-12 col-md-3">
-            <div class="panel panel-info">
-                <div class="panel-heading">
-                    <h1 class="panel-title">
-                        Premium</h1>
-                </div>
-                <div class="panel-body">
-                    <div class="the-price">
-                        <h1>
-                        Vanaf €799</h1>
-                    </div>
-                    <table class="table">
-                        <tr>
-                            <td>
-                                   &LT;Webhosting&GT;
-                            </td>
-                        </tr>
-                        <tr class="active">
-                            <td>
-                                  &LT;Webdevelopment&GT;
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                   &LT;Domeinnaam&GT;
-                            </td>
-                        </tr>
-                        <tr class="active">
-                            <td>
-                                &LT;Seo&GT;   <span class="glyphicon glyphicon-plus" style="color:#124b8c"></span><span class="glyphicon glyphicon-plus" style="color:#124b8c"></span> 
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                 &LT;Styling en Promotie&GT; <span class="glyphicon glyphicon-plus" style="color:#124b8c"></span><span class="glyphicon glyphicon-plus" style="color:#124b8c"></span>  
-                            </td>
-                        </tr>
-                    </table>
-                </div>
-                <div class="panel-footer">
-                    <a href="sync_development_alphen_aan_den_rijn_meer_info.html" class="btn btn-info" role="button">Meer info</a> </div>
-            </div>
-        </div>
+        <!-- Carousel controls -->
+        <a class="carousel-control left" href="#myCarousel" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left"></span>
+        </a>
+        <a class="carousel-control right" href="#myCarousel" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right"></span>
+        </a>
     </div>
 </div>
-    </div>
-
+  
+<script>
+   
+    $(".carousel").on("touchstart", function(event){
+        var xClick = event.originalEvent.touches[0].pageX;
+    $(this).one("touchmove", function(event){
+        var xMove = event.originalEvent.touches[0].pageX;
+        if( Math.floor(xClick - xMove) > 5 ){
+            $(".carousel").carousel('next');
+        }
+        else if( Math.floor(xClick - xMove) < -5 ){
+            $(".carousel").carousel('prev');
+        }
+    });
+    $(".carousel").on("touchend", function(){
+            $(this).off("touchmove");
+    });
+});
+    </script>
     
-<div id="wrapper2">
-		
-<h1>Offerte</h1>
-    <hr>
-<p>Heeft u vragen of wilt een offerte aanvragen? Neem dan contact op via de onderstaande gegevens. doordeweeks zijn wij bereikbaar van 9:00 tot 18:00.</p>
+    
+
+    <div id="wrapper2">
+    <div class="container">
+    <div class="row">
  
-     <button id="button-1" type="button" class="btn btn-info" data-toggle="modal" data-target="#contact">Vraag hier uw offerte aan!</button>
+      <h1>Het 3 in 1 on-line pakket  voor de kleine ondernemer</h1>
+      <hr>
+      <p>
+          Als kleine ondernemer of zelfstandige heeft u waarschijnlijk andere dingen aan uw hoofd dan zelf een website te ontwerpen, maken en onderhouden. Zoekt u een betaalbare en aantrekkelijke website die snel on-line staat, goed vindbaar is en geïntegreerd met uw sociale media kanalen? Neem dan nu contact met ons op!
+        </p>     
+<br><br>
+           
+      <section class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+          <img class="icon" src="images/Sync_Development_Alphen_ad_Rijn_Stijling_websites.png" width="50">
+          <h3>Webstijl  Design</h3>
+          <hr>
+         <p>Op basis van uw wensen geven wij vorm aan de stijl van de website. Hierbij ontwikkelen wij onder andere het logo, de banners en stellen de basiskleuren voor u vast. Mocht u geen specifieke eisen hebben over het design dan komen wij graag met een voorstel.</p>
+      </section>  
+        
+      <section class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+          <img class="icon" src="images/Sync_Development_Alphen_ad_Rijn_World_wide_web.png" width="50">
+          <h3>Website Development</h3>
+          <hr>
+           <p>Als de  de webstijl helder is, creëren wij de website. Tijdens het ontwikkelingsproces gaan wij de website volledig voor u bouwen. Bij iedere stap die gezet wordt krijgt u volledige inzage. Ook zorgen wij voor de registratie van de domeinnaam en de hosting van de website.</p>
+      </section>
+     
+        
+      <section class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+          <img class="icon" src="images/Sync_Development_Alphen_ad_Rijn_Online_marketing.png" width="50">
+          <h3>Online Marketing</h3>
+          <hr>
+          <p>Als de website live is helpen wij u om zoveel mogelijk bezoekers te krijgen die lang op de site blijven. Hierbij kunnen wij ook zorgen voor de inrichting van uw Facebook, LinkedIn en andere sociale media kanalen zodat die goed overeenstemmen met de website.</p>
+      </section>
+        </div>
+        </div>
+<br>
+        
+    <button id="button-1" type="button" class="btn btn-info" data-toggle="modal" data-target="#contact">Neem contact met ons op!</button>
  
        
       <div class="modal fade" id="contact" tabindex="-1" role="dialog" aria-labelledby="modallabel">
@@ -286,7 +214,7 @@ function filterFunction() {
                  <h2 class="modal-title" id="modallabel">Contact</h2>
              </div>
              <div class="modal-body">
-                 <p>Voor al uw vragen</p>
+                 <p>Stuur ons een mail!</p>
                <form method="POST" action="mail_handler.php">
                  <div class="col-sm-12 slideanim">
                  <div class="row">
@@ -317,19 +245,62 @@ function filterFunction() {
          </div>
         </div>
        </div> 
-    </div>
-  <br>
+        
+   </div>
+     <br><br>
+        
+        
+     <div class="bg-img3"></div>
     
- <br>
+    <br><br>
+    
+     <div id="wrapper2">
+          <div class="container">
+            <div class="row">
 
-
+                
+      <section class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <a href="sync_development_alphen_aan_den_rijn_diensten.php#pakketten">
+            <img border="0" alt="Pakketten" src="images/Sync_Development_Alphen_ad_Rijn_Pakketten.png" width="80" height="80"></a>
+           <h3>Pakketten</h3>
+          <hr>
+          <P>Wij hebben drie standaard pakketten samengesteld die aangepast zijn aan uw situatie. Van een basis website tot uitgebreide websites met extra SEO en social media integratie. Altijd voor een bijzonder scherpe prijs. Klik op het icoon voor meer informatie.</P>
+          
+      </section>
+                
+      <section class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <a href="sync_development_alphen_aan_den_rijn_werkwijze.php#werkwijze">
+           <img border="0" alt="Werkwijze" src="images/Sync_Development_Alphen_ad_Rijn_Werkwijze.png" width="80" height="80"></a>
+           <h3>Werkwijze</h3>
+          <hr>
+          <p>De wensen van de klant staan bij ons centraal. We hebben regelmatig contact en maken duidelijke afspraken voor en tijdens het ontwikkelingsproces. Ook na de lancering van de website hebben we contact en helpen bij de online markting van de website. Klik op het icoon voor meer informatie.</p>
+      </section>
+                
+      <section class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+            <a href="sync_development_alphen_aan_den_rijn_werkwijze.php#seo">
+           <img border="0" alt="SEO" src="images/Sync_Development_Alphen_ad_Rijn_Seo.png" width="80" height="80"></a>
+           <h3>SEO</h3>
+          <hr>
+           <p>Sync-development werkt met de meest recente technieken om uw website zo goed mogelijk gevonden te laten worden. Dit wordt ook wel search engine optimization, SEO, genoemd. Dit is van groot belang en daarom bieden wij deze dienst standaard aan in elk pakket.</p>
+      </section>
+              
+            </div>
+         </div>
+         
+      </div>  
+    <br>
+            
+  
+    
+<br> <br> <br>
+  
 <link href="https://fortawesome.github.io/Font-Awesome/assets/font-awesome/css/font-awesome.css" rel="stylesheet">
 <!--footer start from here-->
 <footer>
   <div class="container">
     <div class="row">
       <div class="col-md-3 col-sm-6 footer-col">
-<div class="logofooter"> Contact </div>
+        <div class="logofooter"> Contact </div>
         <p>Wij zijn telefonisch te bereiken van ma t/m vr van 09:00 - 18:00.</p>
         <p><i class="fa fa-map-pin"></i> Antonie van Leeuwenhoekweg 14, Alphen aan den Rijn</p>
         <p><i class="fa fa-phone"></i> Tel: 0611129593</p>
@@ -364,22 +335,19 @@ function filterFunction() {
           <li><i class="fa fa-google-plus social-icon google" aria-hidden="true"></i></li>
         </ul>
       </div>
-              <div class="col-md-3 col-sm-6 footer-col">
- </div> 
-      </div>
-      </div>
+      <div class="col-md-3 col-sm-6 footer-col">
+
     </div>
   </div>
 </footer>
 <!--footer start from here-->
-
-    
-
-<div class="copyright2">
+<div class="copyright3">
 <div class="copyright">
-  <div class="container">
+  <div class="container"  >
     <div class="col-md-6">
-      <p><img class="flag" src="images/netherlands-flag-round-icon-32.png">© 2017 - Sync-development</p>
+       
+  
+    <p>   <img class="flag" src="images/netherlands-flag-round-icon-32.png">© 2017 - Sync-development </p>
      <ul class="footer-social1">
           <li> <a target="_blank" href="https://www.linkedin.com/company/25033050/"><i class="fa fa-linkedin social-icon linked-in" aria-hidden="true"></i></li>
           <li> <a target="_blank" href="https://www.facebook.com/sync4webdevelopment/"><i class="fa fa-facebook social-icon facebook" aria-hidden="true"></i></li>
@@ -418,12 +386,14 @@ $('#return-to-top').click(function() {      // When arrow is clicked
       </ul>
     </div>
   </div>
-  <div>
 </div>
+
     </div>
-    </div>
-    
-    
-</body> 
+
+
+
+         
+
+</body>   
 </html>
 

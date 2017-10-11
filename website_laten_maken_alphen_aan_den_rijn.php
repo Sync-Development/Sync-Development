@@ -13,11 +13,11 @@
 
 <meta charset="UTF-8">
 
-<meta name="keywords" content="gouda website, website stijling, goedkoop website, website bouwen, gouda stijling, gouda goedkoop website, snel website, mobiel, applicatie">
-<meta name="description" content="Sync Development is gelokaliseerd in Alphen ad Rijn met het 3 in 1 pakket voor de startende ondernemer, Op zoek naar een website rond Gouda? Bij ons bent u bij het juiste adres!">      
+<meta name="keywords" content="alphen aan den rijn website, website stijling, goedkoop website, website bouwen, alphen stijling, alphen goedkoop website, snel website, mobiel">
+<meta name="description" content="Sync Development is gelokaliseerd in Alphen ad Rijn met het 3 in 1 pakket voor de startende ondernemer, Op zoek naar een website rond Alphen aan den Rijn? Bij ons bent u bij het juiste adres!">      
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Website laten maken in Gouda?</title>
+<title>Website laten maken in Alphen aan den Rijn?</title>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
@@ -41,8 +41,8 @@
 <div class="container-fluid">
 <div class="navbar-header">
     <img class="flag2" src="images/netherlands-flag-round-icon-32.png">
-    <a href="home.html"><img class="logo" src="images/Sync_Development_Alphen_ad_Rijn_Logo.png"></a>
-    <a href="home.html"><img class="logomobile" src="images/Sync_Development_Alphen_ad_Rijn_Logo_icon_mobiel.png"></a>
+    <a href="index.php"><img class="logo" src="images/Sync_Development_Alphen_ad_Rijn_Logo.png"></a>
+    <a href="index.php"><img class="logomobile" src="images/Sync_Development_Alphen_ad_Rijn_Logo_icon_mobiel.png"></a>
 <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
 <div id="nav-icon3">
   <span></span>
@@ -66,16 +66,16 @@ $(document).ready(function(){
 <div class="collapse navbar-collapse navbar-responsive-collapse">
 <ul class="nav navbar-nav navbar-right">
 <li>
-<a  class="active2" href="home.html"><strong>Home</strong></a>
+<a  class="active2" href="index.php"><strong>Home</strong></a>
 </li>
 <li class="dropdown">
    
 <li>
- <a  class="active2" href="sync_development_alphen_aan_den_rijn_diensten.html"><strong>Diensten</strong></a>
+ <a  class="active2" href="sync_development_alphen_aan_den_rijn_diensten.php"><strong>Diensten</strong></a>
 </li>
 
 <li>
-<a  class="active2" href="sync_development_alphen_aan_den_rijn_werkwijze.html"><strong>Werkwijze</strong></a>
+<a  class="active2" href="sync_development_alphen_aan_den_rijn_werkwijze.php"><strong>Werkwijze</strong></a>
 </li>
     
 <li>
@@ -113,20 +113,19 @@ function filterFunction() {
 }
 </script>
 
-<br><br>
+
   
 
     <div id="wrapper2">     
     <div class="container">
     <div class="row">
-         <h1>Goedkoop een website laten maken in Gouda?</h1>
+         <h1>Goedkoop een website laten maken in Alphen aan den Rijn?</h1>
       <br>
-          <h2>Website maken Gouda</h2>
+          <h2>Website maken Alphen aan den Rijn</h2>
           <p>Zoekt u een goedkope website die aan al uw eisen voldoet? Wilt u niet te ver reizen voor een afspraak? Zoek dan niet verder want wij zitten erg dicht bij u in de buurt! Sync development biedt niet alleen diensten aan om uw website te maken, wij kunnen ook content en promotiemateriaal aanbieden. Het 3 in 1 online pakket voorziet u van alle diensten die denkbaar zijn bij een website. Al onze websites zijn automatisch geschikt voor ieder device, en heel goed vindbaar.  </p>
         </div>
         </div>
         </div>
-            
       
     
 <br> <br> <br>
@@ -167,12 +166,12 @@ function filterFunction() {
       <div class="col-md-3 col-sm-6 footer-col">
         <h6 class="heading7">Social Media</h6>
         <ul class="footer-social">
-                   <li> <a target="_blank" href="https://www.linkedin.com/company/25033050/"><i class="fa fa-linkedin social-icon linked-in" aria-hidden="true"></i></li>
+          <li> <a target="_blank" href="https://www.linkedin.com/company/25033050/"><i class="fa fa-linkedin social-icon linked-in" aria-hidden="true"></i></li>
           <li> <a target="_blank" href="https://www.facebook.com/sync4webdevelopment/"><i class="fa fa-facebook social-icon facebook" aria-hidden="true"></i></li>
           <li><i class="fa fa-google-plus social-icon google" aria-hidden="true"></i></li>
         </ul>
       </div>
-        <div class="col-md-3 col-sm-6 footer-col">
+            <div class="col-md-3 col-sm-6 footer-col">
           <div class="likeknop">
 <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fsync4webdevelopment%2F&width=112&layout=button_count&action=like&size=small&show_faces=true&share=true&height=46&appId" width="150" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
  </div> 
