@@ -135,7 +135,7 @@ function filterFunction() {
                 <div class="panel-body">
                     <div class="the-price">
                         <h1>
-                           Vanaf €399</h1>
+                           Vanaf €399 Excl BTW</h1>
            
                     </div>
                     <table class="table">
@@ -184,7 +184,7 @@ function filterFunction() {
                 <div class="panel-body">
                     <div class="the-price">
                         <h1>
-                           Vanaf €599</h1>
+                           Vanaf €599 Excl BTW</h1>
             
                     </div>
                     <table class="table">
@@ -229,7 +229,7 @@ function filterFunction() {
                 <div class="panel-body">
                     <div class="the-price">
                         <h1>
-                        Vanaf €799</h1>
+                        Vanaf €799 Excl BTW</h1>
                     </div>
                     <table class="table">
                         <tr>
