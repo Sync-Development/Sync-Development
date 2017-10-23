@@ -170,7 +170,7 @@ function filterFunction() {
                     </table>
                 </div>
                 <div class="panel-footer">
-                    <a href="sync_development_alphen_aan_den_rijn_meer_info.php" class="btn btn-info" role="button">Meer info</a>
+                    <a href="sync-development-alphen-aan-den-rijn-meer-info.php" class="btn btn-info" role="button">Meer info</a>
                    </div>
             </div>
         </div>
@@ -218,7 +218,7 @@ function filterFunction() {
                     </table>
                 </div>
                 <div class="panel-footer">
-                    <a href="sync_development_alphen_aan_den_rijn_meer_info.php" class="btn btn-info" role="button">Meer info</a>
+                    <a href="sync-development-alphen-aan-den-rijn-meer-info.php" class="btn btn-info" role="button">Meer info</a>
                     </div>
             </div>
         </div>
@@ -263,7 +263,7 @@ function filterFunction() {
                     </table>
                 </div>
                 <div class="panel-footer">
-                    <a href="sync_development_alphen_aan_den_rijn_meer_info.php" class="btn btn-info" role="button">Meer info</a> </div>
+                    <a href="sync-development-alphen-aan-den-rijn-meer-info.php" class="btn btn-info" role="button">Meer info</a> </div>
             </div>
         </div>
     </div>
