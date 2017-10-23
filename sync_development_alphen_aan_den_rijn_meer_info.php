@@ -66,15 +66,15 @@ $(document).ready(function(){
 <li class="dropdown">
    
 <li>
- <a  class="active2" href="sync_development_alphen_aan_den_rijn_diensten.php"><strong>Diensten</strong></a>
+ <a  class="active2" href="sync-development-alphen-aan-den-rijn-diensten.php"><strong>Diensten</strong></a>
 </li>
 
 <li>
-<a  class="active2" href="sync_development_alphen_aan_den_rijn_werkwijze.php"><strong>Werkwijze</strong></a>
+<a  class="active2" href="sync-development-alphen-aan-den-rijn-werkwijze.php"><strong>Werkwijze</strong></a>
 </li>
     
 <li>
-<a  class="active2" href="sync_development_alphen_aan_den_rijn_contact.php"><strong>Contact</strong></a>
+<a  class="active2" href="sync-development-alphen-aan-den-rijn-contact.php"><strong>Contact</strong></a>
  </li>
 </ul>
    <!--De class zort ervoor dat dit menu wordt gelinked met de animatie in de css-->
