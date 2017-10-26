@@ -133,7 +133,7 @@ function filterFunction() {
       <p><span class="glyphicon glyphicon-map-marker" style="color: red;"></span> Antonie van leeuwenhoekweg 14, 2408AM, Alphen aan den rijn</p>
       <p><span class="glyphicon glyphicon-phone" style="color: #6da6ba;"></span> 0611129593</p>
       <p><span class="glyphicon glyphicon-envelope" style="color: #4431a7;"></span> infosyncdevelopment@gmail.com</p>
-           <p>KvK-nummer: 69925666</p>
+      <p>KvK-nummer: 69925666</p>
     </div>
     
       <?php
