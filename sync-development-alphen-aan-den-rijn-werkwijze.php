@@ -21,7 +21,7 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-<link rel="shortcut icon" href="images/Sync_Development_Alphen_ad_Rijn_Logo_Favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="images/Sync-Development-Alphen-ad-Rijn-Logo-Favicon.ico" type="image/x-icon">
 <link rel="stylesheet" type="text/css" href="landscape.css">
 <link rel="stylesheet" type="text/css" href="bootstrap.css">
 <link rel="stylesheet"  media="(max-width: 690px) and (orientation: portrait)" href="mobile.css">
@@ -36,8 +36,8 @@
 <div class="container-fluid">
 <div class="navbar-header">
     <img class="flag2" src="images/netherlands-flag-round-icon-32.png">
-    <a href="index.php"><img class="logo" src="images/Sync_Development_Alphen_ad_Rijn_Logo.png"></a>
-    <a href="index.php"><img class="logomobile" src="images/Sync_Development_Alphen_ad_Rijn_Logo_icon_mobiel.png"></a>
+    <a href="index.php"><img class="logo" src="images/Sync-Development-Alphen-ad-Rijn-Logo.png"></a>
+    <a href="index.php"><img class="logomobile" src="images/Sync-Development-Alphen-ad-Rijn-Logo-icon-mobiel.png"></a>
 <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
 <div id="nav-icon3">
   <span></span>
@@ -106,7 +106,7 @@ function filterFunction() {
 </script>
 
 
-<div class="bg-img5"  title="Sync_development_Alphen_ad_Rijn_de_werkwijze"></div>
+<div class="bg-img5"  title="Sync-development-Alphen-ad-Rijn-de-werkwijze"></div>
     
 <div id="wrapper2">
 <div class="container" id="werkwijze">
@@ -119,25 +119,25 @@ function filterFunction() {
           
         
       <section class="col-xs-6 col-sm-6 col-md-6 col-lg-3">
-       <img class="icon" src="images/Sync_Development_Alphen_ad_Rijn_Ontmoeten_klanten.png" width="50" alt="Sync_development_Alphen_ad_Rijn_Klant_ontmoeten">
+       <img class="icon" src="images/Sync-Development-Alphen-ad-Rijn-Ontmoeten-klanten.png" width="50" alt="Sync-development-Alphen-ad-Rijn-Klant-Ontmoeten">
           <h3>Ontmoeten</h3>
           <p>Een afspraak maken, een datum plannen en de locatie bevestigen (kan zowel bij ons op locatie als bij u op locatie).</p>
       </section>
       
       <section class="col-xs-6 col-sm-6 col-md-6 col-lg-3">
-       <img class="icon" src="images/Sync_Development_Alphen_ad_Rijn_Afspraken_maken.png" width="50" alt="Sync_development_Alphen_ad_Rijn_Afspraken_maken">
+       <img class="icon" src="images/Sync-Development-Alphen-ad-Rijn-Afspraken-maken.png" width="50" alt="Sync-development-Alphen-ad-Rijn-Afspraken-maken">
           <h3>Afspraken</h3>
           <p>Duidelijke afspraken maken over de website. Tevens is dit het moment waarop de overeenstemming door beide partijen getekend moet worden.</p>
       </section>
       
       <section class="col-xs-6 col-sm-6 col-md-6 col-lg-3">
-       <img class="icon" src="images/Sync_Development_Alphen_ad_Rijn_Realiseren_product.png" width="50" alt="Sync_development_Alphen_ad_Rijn_Realiseren_product">
+       <img class="icon" src="images/Sync-Development-Alphen-ad-Rijn-Realiseren-product.png" width="50" alt="Sync-development-Alphen-ad-Rijn-Realiseren-product">
           <h3>Realiseren</h3>
           <p>Realisatie van de website (waar u uiteraard nauw betrokken bij zult zijn)</p>
       </section>
       
       <section class="col-xs-6 col-sm-6 col-md-6 col-lg-3">
-       <img class="icon" src="images/Sync_Development_Alphen_ad_Rijn_opleveren_product.png" width="50" alt="Sync_development_Alphen_ad_Rijn_Opleveren_product">
+       <img class="icon" src="images/Sync-Development-Alphen-ad-Rijn-opleveren-product.png" width="50" alt="Sync-development-Alphen-ad-Rijn-Opleveren-product">
           <h3>Opleveren</h3>
           <p>Oplevering van het eindproduct, waarbij de website online geplaatst gaat worden.  </p>
       </section>
@@ -154,13 +154,13 @@ function filterFunction() {
 <br> 
     
         <section class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-          <img class="icon" src="images/Sync_Development_Alphen_ad_Rijn_onderhouden_websites.png" width="50" alt="Sync_development_Alphen_ad_Rijn_Onderhouden_website">
+          <img class="icon" src="images/Sync-Development-Alphen-ad-Rijn-onderhouden-websites.png" width="50" alt="Sync-development-Alphen-ad-Rijn-Onderhouden-website">
           <h3>Onderhouden</h3>
           <p>Als uw website is opgeleverd is het verstandig om na te denken over het onderhoud. Voor alle websites die wij maken bieden wij een onderhoud prijs vanaf €25,- per maand. De prijs wordt aangepast op de hoeveelheid onderhoud die uw website nodig heeft. De overname van een bestaande website gaat iets anders in zijn werk, het is noodzakelijk dat wij de website in kwestie eerst onderzoeken. Hierbij kijken wij naar de code en bijbehorende documentatie, daarna komen wij met een voorstel. </p>
 </section>
   
     <section class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-          <img class="icon" src="images/Sync_Development_Alphen_ad_Rijn_Seo.png" width="50" alt="Sync_development_Alphen_ad_Rijn_Seo_toevoegen">
+          <img class="icon" src="images/Sync-Development-Alphen-ad-Rijn-Seo.png" width="50" alt="Sync-development-Alphen-ad-Rijn-Seo-toevoegen">
           <h3>SEO</h3>
           <p>SEO op een bestaande website toepassen of de SEO up uw website optimaliseren is bij ons een mogelijkheid. Ook hier verrichten wij eerst onderzoek naar de code en bijbehorende documentatie van uw website. Het is voor ons cruciaal om eerst te zien hoe uw website in elkaar steekt voordat wij een prijsindicatie kunnen geven. Daarnaast stellen wij ook vast wat de SEO score voor en na de optimalisatie is zodat u het resultaat kunt zien.</p>
 </section>
@@ -168,7 +168,7 @@ function filterFunction() {
 
     
  <section class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-          <img class="icon" src="images/Sync_Development_Alphen_ad_Rijn_Online_marketing.png" width="50" alt="Sync_development_Alphen_ad_Rijn_Online_marketing">
+          <img class="icon" src="images/Sync-Development-Alphen-ad-Rijn-Online-marketing.png" width="50" alt="Sync-development-Alphen-ad-Rijn-Online-marketing">
           <h3>Online marketing</h3>
           <p>Een leuke aanvulling op uw bedrijf en/of website is goed promotiemateriaal voor op uw Social Media accounts. Leuke afbeeldingen, creatieve teksten en spontane acties die ervoor zorgen dat mensen meer geïnteresseerd raken in uw bedrijf, wie wilt dat nou niet? Met deze dienst houden wij ons dus voornamelijk bezig met het beheren/ondersteunen van uw Social Media netwerk. Deze dienst leveren wij vanaf €75,- per maand.     </p>
 </section>
@@ -181,7 +181,7 @@ function filterFunction() {
       </div>
    
 <br>
-<div class="bg-img4"  title="Sync_development_Alphen_ad_Rijn_Seo"></div>
+<div class="bg-img4"  title="Sync-development-Alphen-ad-Rijn-Seo"></div>
   <br>   
 <div id="wrapper2"> 
       <h22>Communicatie</h22>

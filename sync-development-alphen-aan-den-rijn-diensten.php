@@ -21,7 +21,7 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-<link rel="shortcut icon" href="images/Sync_Development_Alphen_ad_Rijn_Logo_Favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="images/Sync-Development-Alphen-ad-Rijn-Logo-Favicon.ico" type="image/x-icon">
 <link rel="stylesheet" type="text/css" href="landscape.css">
 <link rel="stylesheet" type="text/css" href="bootstrap.css">
 <link rel="stylesheet"  media="(max-width: 690px) and (orientation: portrait)" href="mobile.css">
@@ -38,8 +38,8 @@
 <div class="container-fluid">
 <div class="navbar-header">
     <img class="flag2" src="images/netherlands-flag-round-icon-32.png">
-    <a href="index.php"><img class="logo" src="images/Sync_Development_Alphen_ad_Rijn_Logo.png"></a>
-    <a href="index.php"><img class="logomobile" src="images/Sync_Development_Alphen_ad_Rijn_Logo_icon_mobiel.png"></a>
+    <a href="index.php"><img class="logo" src="images/Sync-Development-Alphen-ad-Rijn-Logo.png"></a>
+    <a href="index.php"><img class="logomobile" src="images/Sync-Development-Alphen-ad-Rijn-Logo-icon-mobiel.png"></a>
 <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
 <div id="nav-icon3">
   <span></span>
@@ -109,7 +109,7 @@ function filterFunction() {
 </script>
   
     
-    <div class="bg-img1" title="Sync_development_Alphen_ad_Rijn_3_in_1_pakket"></div>
+    <div class="bg-img1" title="Sync-development-Alphen-ad-Rijn-3-in-1-pakket"></div>
 
   <div id="wrapper2">
       <div id="pakketten"></div>

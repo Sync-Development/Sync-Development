@@ -21,7 +21,7 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-<link rel="shortcut icon" href="images/Sync_Development_Alphen_ad_Rijn_Logo_Favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="images/Sync-Development-Alphen-ad-Rijn-Logo-Favicon.ico" type="image/x-icon">
 <link rel="stylesheet" type="text/css" href="landscape.css">
 <link rel="stylesheet" type="text/css" href="bootstrap.css">
 <link rel="stylesheet"  media="(max-width: 690px) and (orientation: portrait)" href="mobile.css">
@@ -41,8 +41,8 @@
 <div class="container-fluid">
 <div class="navbar-header">
     <img class="flag2" src="images/netherlands-flag-round-icon-32.png">
-    <a href="index.php"><img class="logo" src="images/Sync_Development_Alphen_ad_Rijn_Logo.png"></a>
-    <a href="index.php"><img class="logomobile" src="images/Sync_Development_Alphen_ad_Rijn_Logo_icon_mobiel.png"></a>
+    <a href="index.php"><img class="logo" src="images/Sync-Development-Alphen-ad-Rijn-Logo.png"></a>
+    <a href="index.php"><img class="logomobile" src="images/Sync-Development-Alphen-ad-Rijn-Logo-icon-mobiel.png"></a>
 <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
 <div id="nav-icon3">
   <span></span>
@@ -129,10 +129,10 @@ function filterFunction() {
         <!-- Wrapper for carousel items -->
         <div class="carousel-inner">
             <div class="item active">
-                <img src="images/Sync_Development_Alphen_ad_Rijn_Hoofdpagina_Responsive.png" width="100%" alt="First Slide">
+                <img src="images/Sync-Development-Alphen-ad-Rijn-Hoofdpagina-Responsive.png" width="100%" alt="First Slide">
             </div>
             <div class="item">
-                <img src="images/Sync_Development_Alphen_ad_Rijn_Hoofdpagina_2.jpg" alt="Third Slide">
+                <img src="images/Sync-Development-Alphen-ad-Rijn-Hoofdpagina-2.jpg" alt="Third Slide">
             </div>
         </div>
         <!-- Carousel controls -->
@@ -178,14 +178,14 @@ function filterFunction() {
 <br><br>
            
       <section class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-          <img class="icon" src="images/Sync_Development_Alphen_ad_Rijn_Stijling_websites.png" width="50">
+          <img class="icon" src="images/Sync-Development-Alphen-ad-Rijn-Stijling-websites.png" width="50">
           <h3>Webstijl  Design</h3>
           <hr>
          <p>Op basis van uw wensen geven wij vorm aan de stijl van de website. Hierbij ontwikkelen wij onder andere het logo, de banners en stellen de basiskleuren voor u vast. Mocht u geen specifieke eisen hebben over het design dan komen wij graag met een voorstel.</p>
       </section>  
         
       <section class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-          <img class="icon" src="images/Sync_Development_Alphen_ad_Rijn_World_wide_web.png" width="50">
+          <img class="icon" src="images/Sync-Development-Alphen-ad-Rijn-World-wide-web.png" width="50">
           <h3>Website Development</h3>
           <hr>
            <p>Als de  de webstijl helder is, creëren wij de website. Tijdens het ontwikkelingsproces gaan wij de website volledig voor u bouwen. Bij iedere stap die gezet wordt krijgt u volledige inzage. Ook zorgen wij voor de registratie van de domeinnaam en de hosting van de website.</p>
@@ -193,7 +193,7 @@ function filterFunction() {
      
         
       <section class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-          <img class="icon" src="images/Sync_Development_Alphen_ad_Rijn_Online_marketing.png" width="50">
+          <img class="icon" src="images/Sync-Development-Alphen-ad-Rijn-Online-marketing.png" width="50">
           <h3>Online Marketing</h3>
           <hr>
           <p>Als de website live is helpen wij u om zoveel mogelijk bezoekers te krijgen die lang op de site blijven. Hierbij kunnen wij ook zorgen voor de inrichting van uw Facebook, LinkedIn en andere sociale media kanalen zodat die goed overeenstemmen met de website.</p>
@@ -260,8 +260,8 @@ function filterFunction() {
 
                 
       <section class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-            <a href="sync_development_alphen_aan_den_rijn_diensten.php#pakketten">
-            <img border="0" alt="Pakketten" src="images/Sync_Development_Alphen_ad_Rijn_Pakketten.png" width="80" height="80"></a>
+            <a href="sync-development-alphen-aan-den-rijn-diensten.php#pakketten">
+            <img border="0" alt="Pakketten" src="images/Sync-Development-Alphen-ad-Rijn-Pakketten.png" width="80" height="80"></a>
            <h3>Pakketten</h3>
           <hr>
           <P>Wij hebben drie standaard pakketten samengesteld die aangepast zijn aan uw situatie. Van een basis website tot uitgebreide websites met extra SEO en social media integratie. Altijd voor een bijzonder scherpe prijs. Klik op het icoon voor meer informatie.</P>
@@ -269,7 +269,7 @@ function filterFunction() {
       </section>
                 
       <section class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-            <a href="sync_development_alphen_aan_den_rijn_werkwijze.php#werkwijze">
+            <a href="sync-development-alphen-aan-den-rijn-werkwijze.php#werkwijze">
            <img border="0" alt="Werkwijze" src="images/Sync_Development_Alphen_ad_Rijn_Werkwijze.png" width="80" height="80"></a>
            <h3>Werkwijze</h3>
           <hr>
@@ -277,8 +277,8 @@ function filterFunction() {
       </section>
                 
       <section class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-            <a href="sync_development_alphen_aan_den_rijn_werkwijze.php#seo">
-           <img border="0" alt="SEO" src="images/Sync_Development_Alphen_ad_Rijn_Seo.png" width="80" height="80"></a>
+            <a href="sync-development-alphen-aan-den-rijn-werkwijze.php#seo">
+           <img border="0" alt="SEO" src="images/Sync-Development-Alphen-ad-Rijn-Seo.png" width="80" height="80"></a>
            <h3>SEO</h3>
           <hr>
            <p>Sync-development werkt met de meest recente technieken om uw website zo goed mogelijk gevonden te laten worden. Dit wordt ook wel search engine optimization, SEO, genoemd. Dit is van groot belang en daarom bieden wij deze dienst standaard aan in elk pakket.</p>
