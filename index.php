@@ -270,7 +270,7 @@ function filterFunction() {
                 
       <section class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
             <a href="sync-development-alphen-aan-den-rijn-werkwijze.php#werkwijze">
-           <img border="0" alt="Werkwijze" src="images/Sync_Development_Alphen_ad_Rijn_Werkwijze.png" width="80" height="80"></a>
+           <img border="0" alt="Werkwijze" src="images/Sync-Development-Alphen-ad-Rijn-Werkwijze.png" width="80" height="80"></a>
            <h3>Werkwijze</h3>
           <hr>
           <p>De wensen van de klant staan bij ons centraal. We hebben regelmatig contact en maken duidelijke afspraken voor en tijdens het ontwikkelingsproces. Ook na de lancering van de website hebben we contact en helpen bij de online markting van de website. Klik op het icoon voor meer informatie.</p>
