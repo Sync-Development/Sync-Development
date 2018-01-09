@@ -178,14 +178,14 @@ function filterFunction() {
 <br><br>
            
       <section class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-          <img class="icon" src="images/Sync-Development-Alphen-ad-Rijn-Stijling-websites.png" width="50">
+          <img class="icon" src="images/Sync-Development-Alphen-ad-Rijn-Stijling-websites.svg" width="50">
           <h3>Webstijl  Design</h3>
           <hr>
          <p>Op basis van uw wensen geven wij vorm aan de stijl van de website. Hierbij ontwikkelen wij onder andere het logo, de banners en stellen de basiskleuren voor u vast. Mocht u geen specifieke eisen hebben over het design dan komen wij graag met een voorstel.</p>
       </section>  
         
       <section class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-          <img class="icon" src="images/Sync-Development-Alphen-ad-Rijn-World-wide-web.png" width="50">
+          <img class="icon" src="images/Sync-Development-Alphen-ad-Rijn-World-wide-web.svg" width="50">
           <h3>Website Development</h3>
           <hr>
            <p>Als de  de webstijl helder is, creëren wij de website. Tijdens het ontwikkelingsproces gaan wij de website volledig voor u bouwen. Bij iedere stap die gezet wordt krijgt u volledige inzage. Ook zorgen wij voor de registratie van de domeinnaam en de hosting van de website.</p>
@@ -193,7 +193,7 @@ function filterFunction() {
      
         
       <section class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-          <img class="icon" src="images/Sync-Development-Alphen-ad-Rijn-Online-marketing.png" width="50">
+          <img class="icon" src="images/Sync-Development-Alphen-ad-Rijn-Online-marketing.svg" width="50">
           <h3>Online Marketing</h3>
           <hr>
           <p>Als de website live is helpen wij u om zoveel mogelijk bezoekers te krijgen die lang op de site blijven. Hierbij kunnen wij ook zorgen voor de inrichting van uw Facebook, LinkedIn en andere sociale media kanalen zodat die goed overeenstemmen met de website.</p>
@@ -261,7 +261,7 @@ function filterFunction() {
                 
       <section class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
             <a href="sync-development-alphen-aan-den-rijn-diensten.php#pakketten">
-            <img border="0" alt="Pakketten" src="images/Sync-Development-Alphen-ad-Rijn-Pakketten.png" width="80" height="80"></a>
+            <img border="0" alt="Pakketten" src="images/Sync-Development-Alphen-ad-Rijn-Pakketten.svg" width="80" height="80"></a>
            <h3>Pakketten</h3>
           <hr>
           <P>Wij hebben drie standaard pakketten samengesteld die aangepast zijn aan uw situatie. Van een basis website tot uitgebreide websites met extra SEO en social media integratie. Altijd voor een bijzonder scherpe prijs. Klik op het icoon voor meer informatie.</P>
@@ -270,7 +270,7 @@ function filterFunction() {
                 
       <section class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
             <a href="sync-development-alphen-aan-den-rijn-werkwijze.php#werkwijze">
-           <img border="0" alt="Werkwijze" src="images/Sync-Development-Alphen-ad-Rijn-Werkwijze.png" width="80" height="80"></a>
+           <img border="0" alt="Werkwijze" src="images/Sync-Development-Alphen-ad-Rijn-Werkwijze.svg" width="80" height="80"></a>
            <h3>Werkwijze</h3>
           <hr>
           <p>De wensen van de klant staan bij ons centraal. We hebben regelmatig contact en maken duidelijke afspraken voor en tijdens het ontwikkelingsproces. Ook na de lancering van de website hebben we contact en helpen bij de online markting van de website. Klik op het icoon voor meer informatie.</p>
@@ -278,7 +278,7 @@ function filterFunction() {
                 
       <section class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
             <a href="sync-development-alphen-aan-den-rijn-werkwijze.php#seo">
-           <img border="0" alt="SEO" src="images/Sync-Development-Alphen-ad-Rijn-Seo.png" width="80" height="80"></a>
+           <img border="0" alt="SEO" src="images/Sync-Development-Alphen-ad-Rijn-Seo.svg" width="80" height="80"></a>
            <h3>SEO</h3>
           <hr>
            <p>Sync-development werkt met de meest recente technieken om uw website zo goed mogelijk gevonden te laten worden. Dit wordt ook wel search engine optimization, SEO, genoemd. Dit is van groot belang en daarom bieden wij deze dienst standaard aan in elk pakket.</p>

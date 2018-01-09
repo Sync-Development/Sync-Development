@@ -37,7 +37,7 @@
 <div class="container-fluid">
 <div class="navbar-header">
     <img class="flag2" src="images/netherlands-flag-round-icon-32.png">
-    <a href="index.php"><img class="logo" src="images/Sync-Development-Alphen-ad-Rijn-Logo.png"></a>
+    <a href="index.php"><img class="logo" src="images/Sync-Development-Alphen-ad-Rijn-Logo.svg"></a>
     <a href="index.php"><img class="logomobile" src="images/Sync-Development-Alphen-ad-Rijn-Logo-icon-mobiel.png"></a>
 <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
 <div id="nav-icon3">
