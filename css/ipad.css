@@ -220,7 +220,7 @@ border-bottom: 4px solid #68a6da;
 
 .bg-img1 {
     /* The image used */
-    background-image: url("../images/Sync-Development-Alphen-ad-Rijn-3-in-1-pakket-banner.jpg");
+    background-image: url("../images/Sync-Development-Alphen-ad-Rijn-3-in-1-pakket-banner.svg");
 
     /* Set a specific height */
     min-height: 400px; 
@@ -262,7 +262,7 @@ border-bottom: 4px solid #68a6da;
 
 .bg-img5 {
     /* The image used */
-    background-image: url("../images/Sync-Development-Alphen-ad-Rijn-Werkwijze.jpg");
+    background-image: url("../images/Sync-Development-Alphen-ad-Rijn-Werkwijze-banner.svg");
 
     /* Set a specific height */
     min-height: 400px; 

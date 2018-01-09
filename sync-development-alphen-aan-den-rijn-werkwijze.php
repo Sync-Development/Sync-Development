@@ -137,7 +137,7 @@ function filterFunction() {
       </section>
       
       <section class="col-xs-6 col-sm-6 col-md-6 col-lg-3">
-       <img class="icon" src="images/Sync-Development-Alphen-ad-Rijn-opleveren-product.png" width="50" alt="Sync-development-Alphen-ad-Rijn-Opleveren-product">
+       <img class="icon" src="images/Sync-Development-Alphen-ad-Rijn-opleveren-product.svg" width="50" alt="Sync-development-Alphen-ad-Rijn-Opleveren-product">
           <h3>Opleveren</h3>
           <p>Oplevering van het eindproduct, waarbij de website online geplaatst gaat worden.  </p>
       </section>
