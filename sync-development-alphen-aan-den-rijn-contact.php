@@ -139,7 +139,7 @@ function filterFunction() {
       <?php
     if(isset($_GET['msg'])) echo $_GET['msg'];
 ?>
-<form method="POST" action="mail_handler.php">
+<form method="post" action="mail_handler.php">
       <div class="col-sm-7 slideanim">
       <div class="row">
         <div class="col-sm-6 form-group">
@@ -155,14 +155,14 @@ function filterFunction() {
       <textarea class="form-control" id="msg" name="msg" placeholder="Bericht" rows="5"></textarea><br>
       <div class="row">
         <div class="col-sm-12 form-group">
-         <button class="btn btn-default pull-right" type="submit">Verstuur</button>
+          <button class="btn btn-default pull-right" id="submit" type="submit">Verstuur</button>
         </div>
       </div>
     </div>
   </div>
-</div> 
-        </div>
-    </form> 
+</div>    
+    </form>     
+
 
 <div id="wrapper2">
           <div class="media">        
